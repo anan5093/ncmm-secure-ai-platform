@@ -25,6 +25,7 @@ data/logs/
 Thumbs.db
 
 # IDE
+.vscode/
 .vscode/*.log
 
 # Jest
