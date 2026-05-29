@@ -1,0 +1,99 @@
+NATIONAL CRITICAL MINERAL MISSION (NCMM)
+MISSION HEADQUARTERS — STRATEGIC INTELLIGENCE DIVISION
+DOCUMENT: CHINA MINERAL DOMINANCE INTELLIGENCE BRIEF 2025
+CLASSIFICATION: COSMIC TOP SECRET | CLEARANCE LEVEL 5
+DOCUMENT ID: NCMM-INTEL-2025-CHN-007
+
+DATE: 20 January 2025
+PREPARED BY: Director General, Strategic Intelligence Division
+DISTRIBUTION: Mission Director Only — EYES ONLY
+CLASSIFICATION REVIEW DATE: 20 January 2026
+
+EXECUTIVE SUMMARY:
+China exercises dominant control over the global critical mineral supply chain, posing a 
+Category A Strategic Risk to India's energy transition, defence manufacturing, and 
+semiconductor ambitions. This brief provides a classified assessment of China's 
+processing dominance, strategic leverage mechanisms, and India's vulnerability 
+exposure across seven critical mineral categories.
+
+SECTION 1: CHINA'S PROCESSING MONOPOLY — CURRENT STATUS
+
+1.1 Lithium
+China controls approximately 65% of global lithium refining capacity. Despite holding 
+only 6% of global lithium reserves, China has built 72% of global lithium chemical 
+processing facilities. The Sichuan and Qinghai provinces host the world's largest 
+lithium carbonate and lithium hydroxide production complexes.
+
+India currently imports 100% of processed lithium carbonate and lithium hydroxide. 
+Even Australia's Pilbara Minerals exports spodumene concentrate to China for processing 
+before re-export. India has no domestic refining capacity as of FY2025.
+
+1.2 Cobalt
+China controls approximately 70% of global cobalt processing capacity. The DRC produces 
+73% of mined cobalt globally, but 70% of this is shipped to China for processing. 
+China's CATL and BYD have secured long-term offtake agreements covering DRC production 
+through 2035. India sources cobalt hydroxide from DRC but depends on Chinese processed 
+cobalt precursors for battery cathode manufacturing.
+
+1.3 Rare Earth Elements (REE)
+China's dominance in REE is near-total: 85% of global REE mining, 90% of REE processing, 
+and 87% of NdFeB permanent magnet production. In 2023, China restricted exports of 
+gallium, germanium, and graphite — precursors for semiconductors and EV batteries. 
+India imports approximately 82% of its REE requirements from China or Chinese-controlled 
+supply chains. NCMM has initiated bilateral agreements with Lynas (Australia), 
+MP Materials (USA), and SRK Consulting (Canada) to diversify by 2027.
+
+1.4 Natural Graphite
+China produces 67% of global natural graphite and 98% of spherical graphite used in 
+lithium-ion battery anodes. In October 2023, China imposed export licensing controls 
+on graphite, creating immediate supply shocks for EV manufacturers globally.
+
+1.5 Nickel
+Indonesia (with heavy Chinese investment through IMIP and Nickel Industries) now 
+controls 48% of global nickel production. Chinese-backed HPAL (High-Pressure Acid 
+Leach) plants process Class 1 nickel required for batteries. Effectively, China controls 
+the value chain even for Indonesian nickel.
+
+1.6 Manganese
+China controls 95% of electrolytic manganese metal (EMM) production and 60% of 
+high-purity manganese sulphate (HPMS) for battery cathodes. India's domestic manganese 
+ore production (Odisha, Maharashtra) covers only oxide grades — not battery-grade.
+
+SECTION 2: STRATEGIC LEVERAGE MECHANISMS
+
+2.1 Export Restriction Capability
+China has demonstrated willingness to use mineral exports as geopolitical leverage:
+- 2010: Rare earth embargo against Japan following Senkaku dispute
+- 2023: Gallium, germanium, graphite export licensing
+- 2024: Antimony export controls (critical for defence applications)
+A similar action against India targeting cobalt precursors, rare earth magnets, or 
+graphite anode materials would critically impair India's EV manufacturing within 90 days.
+
+2.2 Price Manipulation
+Chinese state-owned enterprises (SOEs) have demonstrated coordinated pricing to 
+undercut non-Chinese producers, driving out Western processing capacity. This ensures 
+dependency is maintained even when non-Chinese mines exist.
+
+SECTION 3: INDIA'S VULNERABILITY ASSESSMENT
+
+CRITICAL RISK INDICATORS (CRI Score: 8.2/10 — HIGH):
+- Lithium carbonate: 100% import dependent, 0% domestic refining
+- Cobalt: 100% import dependent, 0% domestic processing
+- REE: 82% China-origin, no domestic separation facility
+- Graphite anodes: 100% import dependent
+- Strategic reserves coverage: 8.2 months (lithium), 26 months (cobalt), 18 months (manganese)
+
+SECTION 4: RECOMMENDED MITIGATIONS (TOP SECRET)
+
+4.1 IMMEDIATE (FY2025): Accelerate strategic reserve build-up to 24-month coverage
+4.2 SHORT-TERM (FY2026): Establish India's first lithium refinery at Kutch Special 
+    Economic Zone (capacity: 50,000 MT LCE per annum)
+4.3 MEDIUM-TERM (FY2027): Operationalise Rajasthan lithium deposit (Degana-Nagaur)
+4.4 STRATEGIC: Bilateral technology-for-access agreements with Argentina, Chile, 
+    Australia, and Canada under the Critical Minerals Partnership framework
+
+CLASSIFICATION REVIEW: This document is classified COSMIC TOP SECRET and must not 
+be reproduced, transmitted, or stored outside NCMM classified systems.
+
+AUTHORISED BY: Mission Director, NCMM
+DOCUMENT CONTROL: NCMM-DCS-SID-2025-CHN-007

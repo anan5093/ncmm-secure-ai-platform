@@ -1,0 +1,157 @@
+JAWAHARLAL NEHRU PORT TRUST (JNPT)
+PORT OPERATIONS DIVISION — BULK MINERALS IMPORT CELL
+DOCUMENT REF: JNPT/PORT-OPS/MNG/FEB/2025/0217
+CLASSIFICATION: RESTRICTED
+DATE OF ISSUE: 19 FEBRUARY 2025
+PAGE: 1 OF 3
+
+═══════════════════════════════════════════════════════════════
+INBOUND CARGO MANIFEST — CRITICAL MINERAL CONSIGNMENT
+HIGH-GRADE MANGANESE ORE — FEBRUARY 2025 IMPORT
+═══════════════════════════════════════════════════════════════
+
+SECTION 1: VESSEL PARTICULARS
+
+Vessel Name         : MV SABARMATI
+IMO Number          : IMO 9614782
+Flag State          : Republic of India
+Classification      : Bulk Carrier, Class IRS (Indian Register of Shipping)
+Gross Tonnage       : 29,840 GRT
+Net Tonnage         : 18,960 NRT
+Length Overall      : 185.2 m
+Beam                : 28.4 m
+Draft (Arrival)     : 10.9 m
+Owner               : Shipping Corporation of India (SCI), Mumbai
+Operator            : SCI Bulk Cargo Division, Mumbai
+Master              : Capt. Suresh Anantharaman Pillai (IND)
+Chief Officer       : Officer Amrit Lal Bose (IND)
+Port of Registry    : Mumbai, India
+
+SECTION 2: VOYAGE DETAILS
+
+Port of Loading         : Port of Port Elizabeth (Gqeberha), Eastern Cape, South Africa
+Port of Discharge       : Jawaharlal Nehru Port, Navi Mumbai (JNPT)
+Voyage Number           : SCI-MNG-2025-008
+ETD (Port Elizabeth)    : 28 January 2025
+ETA (JNPT)             : 16 February 2025
+ATD (Port Elizabeth)    : 29 January 2025
+ATA (JNPT)             : 19 February 2025
+Transit Duration        : 21 days
+
+SECTION 3: CARGO DETAILS
+
+Commodity               : Manganese Ore, High-Grade (≥44% Mn) — Lump and Fines blend
+HS Code                 : 2602.00.00 (Manganese Ores and Concentrates)
+Origin                  : Kalahari Manganese Fields, John Taolo Gaetsewe District, Northern Cape, South Africa
+Mining Entity           : Assmang Proprietary Limited (Black Rock Mine Operations)
+                          (Jointly operated with African Rainbow Minerals — ARM)
+Total Cargo Weight      : 5,000 Metric Tonnes (MT) — Net Weight
+Gross Weight            : 5,000 MT (bulk loose; no packaging)
+Mn Content              : Lumps: 46.2% Mn; Fines: 44.1% Mn (weighted avg: 45.3% Mn)
+Fe Content              : 7.1% Fe (max 10% — Spec) ✓
+SiO₂                    : 4.8% (max 8% — Spec) ✓
+Al₂O₃                  : 0.7% (max 2.0% — Spec) ✓
+Phosphorus              : 0.076% (max 0.10% — Spec) ✓
+Moisture                : 3.6% (max 6% — Spec) ✓
+Particle Size           : Lumps 75-150mm (70%), Fines 0-8mm (30%)
+Stowage Plan            : Holds 1 and 2 (Hold 1: 2,600 MT Lumps; Hold 2: 2,400 MT Fines)
+Trade Terms             : CFR JNPT
+
+SECTION 4: SHIPPER & CONSIGNEE INFORMATION
+
+Shipper                 : Assmang Proprietary Limited
+                          Black Rock Mine Operations, Kathu Road, Northern Cape, South Africa
+                          Registration: 1935/004439/07
+                          Contact: Mr. Pierre van der Merwe, Export Manager, +27-53-259-9000
+
+SA Export Agent         : Transnet Port Terminal, Gqeberha — Bulk Terminal
+
+Importer of Record      : Steel Authority of India Limited (SAIL) — Raw Materials Division
+                          SAIL Ispat Bhawan, Lodi Road, New Delhi — 110 003
+                          GSTIN: 07AABCS7043R1ZS
+                          IEC Code: 0588012245
+
+Additional Consignee    : Manganese Ore (India) Limited (MOIL), Nagpur
+                          (400 MT earmarked for MOIL electrolytic manganese plant, Balaghat)
+
+Consignee (NCMM Share)  : Ministry of Mines — NCMM Strategic Buffer Reserve
+                          Buffer quantity: 500 MT earmarked for NCMM strategic reserve
+                          Nodal Officer: Smt. Shweta Agarwal, Joint Director, NCMM-PMU
+
+Notify Party            : JNPT Bulk Cargo Handling Division, Gate 5, JNPT Complex
+
+SECTION 5: BILL OF LADING DETAILS
+
+Bill of Lading No.      : SCI-2025-MNG-BL-008
+B/L Date                : 29 January 2025
+B/L Place of Issue      : Port Elizabeth (Gqeberha), South Africa
+Terms                   : CFR JNPT (Incoterms 2020)
+Freight Value           : USD 1,250,000
+Insurance               : Oriental Insurance Company, Policy No. OIC-MAR-2025-00789
+                          Coverage: USD 18,700,000
+Letter of Credit        : LC No. SBI/EXIM/2025/MNG/0112
+
+SECTION 6: DOCUMENTATION CHECKLIST
+
+[✓] Original Bill of Lading (3 originals + 3 copies)
+[✓] Packing List (Not applicable — bulk cargo)
+[✓] Commercial Invoice — Assmang (ref: ASM-INV-2025-0081)
+[✓] Certificate of Origin — South African Chamber of Commerce (ref: SA-COO-2025-0431)
+[✓] Grade Analysis Certificate — SGS South Africa (ref: SGS-SA-2025-MNG-0092)
+[✓] Radioactivity Clearance Certificate — AERB (ref: AERB-JNPT-2025-0121)
+[✓] Fumigation Certificate — Not applicable (mineral ore)
+[✓] Weight Certificate — Port Elizabeth Weighbridge (ref: PETX-WT-2025-0089)
+[✓] Vessel Seaworthiness Certificate
+[✓] Import Licence — DGFT (ref: DGFT-IMP-2025-MNG-SAIL-0044)
+[✓] End-User Certificate — MoM/NCMM/EUC/2025/MNG/004
+
+SECTION 7: CUSTOMS CLEARANCE
+
+Customs Appraisal No.   : JNPT-CUS-2025-IMP-008812
+BOE No.                 : 2025/02/JNPT/00891
+Date of Filing          : 19 February 2025 (0745 hrs)
+Date of Clearance       : 20 February 2025 (1430 hrs)
+Appraising Officer      : Shri Basant Kumar Verma, AC Customs, JNPT
+Assessable Value        : INR 4,87,50,000
+Basic Customs Duty      : 2.5% = INR 12,18,750 (Mn ore not fully exempt; partial duty under notif. 50/2017)
+IGST                    : INR 90,00,000 (18% on AV+BCD)
+Total Duties & Charges  : INR 1,04,18,750
+
+SECTION 8: STORAGE ASSIGNMENT
+
+Manganese Ore is a standard industrial mineral supplement. For this consignment:
+  — 4,100 MT: SAIL Raw Material Yard, JNPT Annex-3 (Uran), Batch Ref: SAIL-MNG-2025-0012
+  — 400 MT  : MOIL Transhipment Bay, JNPT Gate 5 (forwarding to Nagpur by rail, Rake No. MOIL-R2025-02)
+  — 500 MT  : NCMM Strategic Buffer — JNPT W14 (Manganese Reserve Bay)
+
+Warehouse Superintendent: Shri Prashant A. Dalvi, JNPT Bulk Cargo Superintendent
+Expected Dispatch       : SAIL lot: 01 March 2025 (direct rail to SAIL Bhilai Steel Plant, CG)
+                          MOIL lot: 28 February 2025 (road + rail)
+                          NCMM lot: 15 March 2025 (pending NCMM-PMU dispatch order)
+
+SECTION 9: QUALITY VERIFICATION
+
+Sample Ref              : JNPT-QC-2025-MNG-0217
+Drawn by                : NMDC/MOIL Joint QC Team
+Verification Method     : X-Ray Fluorescence (XRF) + Wet Chemical Analysis
+Key Results             : Mn 45.1% ✓, Fe 7.3% ✓, SiO₂ 5.1% ✓, P 0.078% ✓, Moisture 3.4% ✓
+Overall QC Status       : APPROVED FOR DELIVERY
+
+SECTION 10: AUTHORIZING SIGNATURES
+
+Port Operations Manager : ____________________  Shri Vijay C. Deore, DM (Port Ops), JNPT
+                          Date: 19 February 2025
+Customs Officer         : ____________________  Shri Basant Kumar Verma, AC Customs
+                          Date: 20 February 2025
+SAIL Receiving Manager  : ____________________  Shri Harish Chandra Yadav, GM (Raw Materials), SAIL
+                          Date: 20 February 2025
+NCMM Observer           : ____________________  Smt. Shweta Agarwal, Jt. Director, NCMM-PMU
+                          Date: 20 February 2025
+
+═══════════════════════════════════════════════════════════════
+DOCUMENT ENDS — JNPT/PORT-OPS/MNG/FEB/2025/0217
+NEXT REVIEW: 01 MARCH 2025
+═══════════════════════════════════════════════════════════════
+
+RESTRICTED — OFFICIAL USE ONLY
+Authorized Recipients: JNPT Port Ops, SAIL RM Division, MOIL, NCMM-PMU, Customs JNPT

@@ -1,0 +1,168 @@
+JAWAHARLAL NEHRU PORT TRUST (JNPT)
+PORT OPERATIONS DIVISION — CARGO INTAKE & CLEARANCE UNIT
+DOCUMENT REF: JNPT/PORT-OPS/COB/2025/0143
+CLASSIFICATION: RESTRICTED
+DATE OF ISSUE: 14 JANUARY 2025
+PAGE: 1 OF 4
+
+═══════════════════════════════════════════════════════════════
+INBOUND CARGO MANIFEST — CRITICAL MINERAL CONSIGNMENT
+COBALT HYDROXIDE — STRATEGIC RESERVES INTAKE
+═══════════════════════════════════════════════════════════════
+
+SECTION 1: VESSEL PARTICULARS
+
+Vessel Name         : MV BENGAL STAR
+IMO Number          : IMO 9741238
+Flag State          : Republic of Malta
+Classification      : Bulk Carrier, Class NK
+Gross Tonnage       : 38,450 GRT
+Net Tonnage         : 24,780 NRT
+Length Overall      : 199.9 m
+Beam                : 32.2 m
+Draft (Arrival)     : 11.4 m
+Owner               : Bengal Shipping Lines Pvt. Ltd., Kolkata
+Operator            : Pan-Orient Maritime Services, Singapore
+Master              : Capt. Rajesh V. Nambiar (IND)
+Chief Officer       : Officer K. Petrov (RUS)
+Port of Registry    : Valletta, Malta
+
+SECTION 2: VOYAGE DETAILS
+
+Port of Loading         : Port of Dar es Salaam, Tanzania (Transit Hub)
+Origin Port             : Port of Matadi, Democratic Republic of Congo (DRC)
+Port of Discharge       : Jawaharlal Nehru Port, Navi Mumbai (JNPT)
+Voyage Number           : BNS-2025-0007
+ETD (Matadi)            : 22 December 2024
+ETA (JNPT)              : 12 January 2025
+ATD (Matadi)            : 23 December 2024
+ATA (JNPT)              : 14 January 2025
+Transit Duration        : 22 days (including 2-day delay due to Port Said congestion)
+
+SECTION 3: CARGO DETAILS
+
+Commodity               : Cobalt Hydroxide [Co(OH)₂], Battery Grade
+HS Code                 : 2822.00.10 (Cobalt Oxides and Hydroxides)
+Total Cargo Weight      : 1,800 Metric Tonnes (MT) — Net Weight
+Gross Weight            : 1,926 MT (including packaging)
+Number of Packages      : 3,600 x 500 kg HDPE-lined polypropylene big bags (1.0 MT each, packed in pairs on EUR-pallets)
+Cobalt Content          : Minimum 30% Co by weight (average assay: 30.8% Co)
+Moisture Content        : ≤ 12% (tested at load port by SGS Tanzania)
+Particle Size           : D50 = 4.2 µm
+Stowage Plan            : Holds 2, 3, and 4 (Hold 2: 650 MT; Hold 3: 700 MT; Hold 4: 450 MT)
+
+SECTION 4: SHIPPER & CONSIGNEE INFORMATION
+
+Shipper                 : CHEMAF SARL (Chemical of Africa)
+                          Zone Industrielle de Lubumbashi, Katanga Province, DRC
+                          Registration No.: RC/LUB/23419
+                          Contact: M. Jean-Baptiste Mutombo, +243-81-450-0022
+
+Exporter of Record      : Freeport Cobalt Ltd., Helsinki, Finland (EU intermediary entity)
+
+Forwarding Agent (DRC)  : Bollore Logistics DRC, Kinshasa
+
+Importer of Record      : National Mineral Development Corporation (NMDC) Limited
+                          NMDC Bhawan, Hyderabad, Telangana — 500 028
+                          GSTIN: 36AAACN2723R1Z0
+                          IEC Code: 0808000571
+
+Consignee               : Ministry of Mines, Government of India
+                          (on behalf of NCMM Strategic Reserve Programme)
+                          Room 320, Shastri Bhawan, New Delhi — 110 001
+                          Nodal Officer: Shri Arvind Prasad Meena, Joint Secretary
+
+Notify Party            : JNPT Strategic Cargo Handling Division
+                          Gate 7, JNPT Complex, Uran, Navi Mumbai — 400 707
+
+SECTION 5: BILL OF LADING DETAILS
+
+Bill of Lading No.      : BS-2024-DES-00892
+B/L Date                : 23 December 2024
+B/L Place of Issue      : Dar es Salaam, Tanzania
+Terms                   : CIF JNPT (Incoterms 2020)
+Freight Currency        : USD
+Freight Value           : USD 2,340,000 (Two Million Three Hundred Forty Thousand)
+Insurance               : IFFCO-Tokio General Insurance, Policy No. IT-MAR-2024-78934
+                          Coverage: USD 31,500,000 (Full replacement value + 10%)
+Letter of Credit        : LC No. SBI/TRADE/2024/COBALT/0089 — State Bank of India, Parliament Street Branch, New Delhi
+
+SECTION 6: DOCUMENTATION CHECKLIST
+
+[✓] Original Bill of Lading (3 originals, 3 non-negotiable copies)
+[✓] Packing List (ref: BNS-2025-PL-0007)
+[✓] Commercial Invoice (ref: CF-2024-INV-892)
+[✓] Certificate of Origin — DRC Chamber of Commerce (No. DRC-CO-2024-4471)
+[✓] Analytical Certificate — SGS Tanzania (ref: SGS-TZ-2024-COB-0231)
+[✓] Material Safety Data Sheet (MSDS/SDS) — Cobalt Hydroxide, Rev.4
+[✓] Phytosanitary Certificate — Not Applicable
+[✓] CITES Permit — Not Applicable
+[✓] Dangerous Goods Declaration (IMDG Code, Class 9, UN No. 3077)
+[✓] Radiation Survey Certificate — BARC Approved (ref: BARC-RAD-2025-JNPT-0044)
+[✓] Pre-Shipment Inspection Report — Bureau Veritas, DRC (ref: BV-DRC-2024-8891)
+[✓] RCMC Certificate — NMDC Export-Import Division
+[✓] End-User Certificate — Ministry of Mines, GoI (ref: MoM/EUC/2024/COB/017)
+
+SECTION 7: CUSTOMS & REGULATORY CLEARANCE
+
+Customs Appraisal No.   : JNPT-CUS-2025-IMP-002341
+Port of Entry BOE No.   : 2025/01/JNPT/00389
+Date of Filing          : 14 January 2025 (0830 hrs)
+Date of Clearance       : 15 January 2025 (1645 hrs)
+Appraising Officer      : Shri Deepak Kumar Singh, AC, Customs, JNPT
+Assessable Value        : INR 22,14,60,000 (INR 22.15 Crore approx.)
+Basic Customs Duty      : NIL (Exempt under S.No. 4 of Customs Notification No. 50/2017 as amended for critical minerals)
+IGST                    : INR 3,98,63,000 (18% on AV)
+Social Welfare Surcharge: NIL (exempted on BCD=0)
+Port Dues               : INR 14,76,000
+Total Charges           : INR 4,13,39,000
+
+SECTION 8: STORAGE ASSIGNMENT
+
+Primary Storage Location    : JNPT Warehouse Complex — Block W12 (Critical Mineral Reserve Bay)
+                              JNPT-W12, Berth No. 3, NSICT Terminal, Navi Mumbai — 400 707
+Secondary Storage Location  : IFFCO Chemical Warehouse, Panvel, Navi Mumbai (overflow, if W12 at capacity)
+Storage Condition           : Ambient (Dry, covered), max. RH 70%, no direct sunlight
+Stack Height                : Maximum 3 big bags (1.5 m)
+Handling Contractor         : JNPT Bulk Cargo Division (Authorized for critical minerals under MoM Agreement No. MoM/JNPT/2023/004)
+Warehouse Superintendent    : Shri Santosh R. Gaikwad
+Target Dispatch Date        : 01 February 2025 (To KABIL processing facility, Hyderabad)
+
+Inward Delivery Order No.   : JNPT/IDO/2025/COB/0112
+Container Equivalent Units  : N/A (Break bulk)
+
+SECTION 9: QUALITY VERIFICATION (PORT)
+
+Samples drawn by            : NMDC QC Team + JNPT Customs Lab
+Sample Reference            : JNPT-QC-2025-COB-0044
+Parameters Verified:
+  - Cobalt (Co) content      : 30.7% (Spec: ≥30%) ✓ PASS
+  - Moisture                 : 11.2% (Spec: ≤12%) ✓ PASS
+  - Sulphur (S)              : 0.18% (Spec: ≤0.3%) ✓ PASS
+  - Iron (Fe)                : 0.41% (Spec: ≤0.5%) ✓ PASS
+  - Lead (Pb)                : 8 ppm (Spec: ≤15 ppm) ✓ PASS
+  - Cadmium (Cd)             : <2 ppm (Spec: ≤5 ppm) ✓ PASS
+  - Radiation Level          : Background (< 0.2 µSv/hr) ✓ PASS
+Overall QC Status           : APPROVED FOR STRATEGIC RESERVE INTAKE
+
+SECTION 10: AUTHORIZING SIGNATURES
+
+Port Operations Manager     : ____________________  Shri Vijay C. Deore, DM (Port Ops), JNPT
+                              Date: 14 January 2025
+
+Customs Superintendent      : ____________________  Smt. Rekha M. Iyer, Supdt. Customs, JNPT
+                              Date: 15 January 2025
+
+NMDC Receiving Officer      : ____________________  Shri Mohan Lal Patkar, Sr. Manager (Logistics), NMDC
+                              Date: 15 January 2025
+
+NCMM Nodal Observer         : ____________________  Dr. Priya Nair, Sr. Scientist, NCMM Secretariat
+                              Date: 15 January 2025
+
+═══════════════════════════════════════════════════════════════
+DOCUMENT ENDS — JNPT/PORT-OPS/COB/2025/0143
+NEXT REVIEW: 01 FEBRUARY 2025
+═══════════════════════════════════════════════════════════════
+
+RESTRICTED — OFFICIAL USE ONLY
+Authorized recipients: JNPT Port Operations, NMDC Logistics, Ministry of Mines (NCMM Cell), Customs Department JNPT

@@ -1,0 +1,195 @@
+NATIONAL CRITICAL MINERAL MISSION (NCMM)
+DIRECTORATE OF LOGISTICS & SUPPLY CHAIN INTELLIGENCE
+DOCUMENT REF: NCMM/LOG/LIT/SCR/2025/INT-009
+CLASSIFICATION: SECRET
+HANDLING CAVEAT: RESTRICTED CIRCULATION — SENIOR OFFICIALS ONLY
+DATE OF ISSUE: 28 MARCH 2025
+PAGE: 1 OF 7
+
+═══════════════════════════════════════════════════════════════
+INTELLIGENCE REPORT — SUPPLY CHAIN RISK ASSESSMENT
+LITHIUM: INDIA'S STRATEGIC VULNERABILITY ANALYSIS
+FY2025-26
+═══════════════════════════════════════════════════════════════
+
+EXECUTIVE SUMMARY
+
+India's lithium supply chain is in a state of acute vulnerability as of Q1 FY2025-26. The country 
+currently holds only 8 months of strategic lithium reserve coverage against projected demand for 
+FY2025-26, falling dangerously short of the NCMM-mandated 18-month buffer target. Three compounding 
+factors drive this risk: (1) Australian export policy uncertainty following the Critical Minerals 
+Strategic Review (CMSR) tabled in Canberra in January 2025; (2) extreme lithium price volatility — 
+LCE (Lithium Carbonate Equivalent) prices declined 68% between January 2023 and March 2025, creating 
+commercial procurement complexity; and (3) India's near-zero domestic lithium production, despite the 
+GSI-confirmed Degana-Nagaur discovery in Rajasthan (see companion document: NCMM/GEO/LIT/RAJ/2025/
+GS-007). This report provides a structured risk assessment and recommends a multi-pronged mitigation 
+strategy incorporating Argentina, Chile, and domestic production pathways.
+
+SECTION 1: INDIA'S LITHIUM DEMAND PROFILE
+
+1.1 Consumption Estimates (FY2025-26 base projection)
+
+Primary consumers of lithium in India:
+  Sector                          | Estimated Demand (LCE) | Growth Driver
+  --------------------------------|------------------------|------------------
+  EV Battery Manufacturing        | 24,500 MT LCE          | PLI-ACC scheme
+  Consumer Electronics            | 3,800 MT LCE           | Smartphone/laptop mfg.
+  Grid Storage (BESS)             | 2,100 MT LCE           | Renewable energy targets
+  Industrial Applications         | 1,400 MT LCE           | Lubricants, glass, pharma
+  DRDO / Defence Electronics      | 320 MT LCE             | Classified programmes
+  Research & Development          | 180 MT LCE             | IITs, CSIR, ISRO
+  TOTAL FY2025-26 Demand          | 32,300 MT LCE          |
+
+1.2 Demand Trajectory (NCMM Forecast Model, March 2025)
+  FY2026-27: 54,000 MT LCE (growth driven by Maruti Suzuki, Mahindra EV ramp-up)
+  FY2027-28: 89,000 MT LCE
+  FY2028-29: 138,000 MT LCE (assumes 30% EV penetration, domestic battery production 50 GWh)
+  FY2029-30: 204,000 MT LCE (assumes 42% EV penetration, 80 GWh production)
+
+SECTION 2: CURRENT STRATEGIC RESERVE STATUS
+
+2.1 Lithium Reserve Inventory (As of 15 March 2025)
+
+Form                     | Location                          | Qty (MT LCE)
+-------------------------|-----------------------------------|---------------
+Lithium Carbonate (Li₂CO₃)| JNPT W11 (NCMM Reserve Bay)      | 4,200 MT
+Lithium Hydroxide (LiOH) | KABIL Depot, Vadodara             | 6,800 MT
+Lithium Carbonate        | Vizag Strategic Reserve, VIZ-L2   | 3,400 MT
+Lithium Hydroxide        | Chennai Port Buffer, CHPT-L1      | 4,100 MT
+Spodumene Concentrate    | Kandla Port Storage (raw)         | 2,900 MT (= ~870 MT LCE)
+TOTAL                    |                                   | ~21,370 MT LCE
+
+2.2 Coverage Analysis
+  Monthly demand rate (FY2025-26): 2,692 MT LCE/month
+  Current stock: 21,370 MT LCE
+  Coverage: 21,370 ÷ 2,692 = 7.94 months ≈ 8 months
+  NCMM Target (18 months): 48,456 MT LCE
+  Shortfall: 27,086 MT LCE (55.9% below target)
+
+SECTION 3: AUSTRALIA SUPPLY RISK — CRITICAL ANALYSIS
+
+Australia supplies approximately 55% of India's lithium imports (primarily as spodumene concentrate, 
+SC6.0 grade) and is the world's largest lithium producer (89,000 MT LCE production in 2024 per 
+Geoscience Australia). However, multiple risk factors have emerged:
+
+3.1 Australian Export Policy Review (CMSR 2025)
+  The Australian government's Critical Minerals Strategic Review (tabled February 2025) proposes:
+  - Mandatory "value-add" processing before export of certain critical mineral concentrates by FY2027
+  - Possible export controls on lithium concentrates to "non-allied" nations under AUKUS framework
+  - Priority allocation mechanisms for QUAD partners and Five Eyes nations
+  
+  NCMM Assessment: If Australia implements processing-before-export mandate, India's spodumene 
+  concentrate imports will cease by mid-FY2026-27, forcing procurement to shift to processed forms 
+  (lithium carbonate/hydroxide) at 2–3x higher unit cost. Estimated additional annual cost: 
+  INR 8,400 crore at current demand levels.
+
+3.2 Key Australian Suppliers at Risk
+  - Pilbara Minerals (Pilgangoora, WA): 280,000 MT SC6.0/year capacity; India off-take: 45,000 MT/yr
+  - Liontown Resources (Kathleen Valley, WA): First production 2024; India off-take: 20,000 MT/yr
+  - Core Lithium (Finniss, NT): Under care-and-maintenance as of Feb 2025 (price-driven suspension)
+
+3.3 Australia Risk Rating: HIGH (Score: 7.8/10 on NCMM Supply Risk Matrix)
+
+SECTION 4: PRICE VOLATILITY ANALYSIS
+
+Lithium price history (LCE, China spot, CNY/MT equivalent in USD):
+  Jan 2023: USD 78,000/MT (peak)
+  Jul 2023: USD 42,000/MT
+  Jan 2024: USD 15,800/MT
+  Jul 2024: USD 12,100/MT
+  Jan 2025: USD 10,200/MT
+  Mar 2025: USD 9,850/MT (current)
+
+Price decline driver analysis:
+  (a) Chinese lepidolite production surge (low-cost brine processing)
+  (b) CATL and BYD sodium-ion battery introduction reducing Li demand signals
+  (c) Global EV demand slowdown in EU and US markets (subsidy phase-outs)
+  (d) Argentina and Chile capacity additions (Lithium Americas, SQM expansions)
+
+Impact on NCMM procurement:
+  Low prices create a window of opportunity for large-scale forward procurement and 
+  reserve-building at lowest cost since 2021. NCMM Finance Division recommends accelerating 
+  procurement while LCE remains below USD 12,000/MT. Estimated savings: INR 2,200 crore 
+  versus FY2023 procurement costs.
+
+SECTION 5: ALTERNATIVE SOURCING — ARGENTINA & CHILE
+
+5.1 Argentina (Lithium Triangle — Salta, Jujuy, Catamarca provinces)
+  - Production capacity: 45,000 MT LCE/year (2025); projected 120,000 MT LCE/year by 2027
+  - Key producers: POSCO Holdings (Hombre Muerto), Allkem-Livent (Fenix/Olaroz), Zijin Mining
+  - India engagement: KABIL-Argentina MOU signed 12 February 2025 (on margins of G20 Finance 
+    Ministers Meeting, Cape Town) — covers 10,000 MT LCE/year at a fixed-price floor mechanism
+  - Risk: Political risk (Milei government's deregulation policies — potential labour disputes)
+  - Argentina Risk Rating: MEDIUM (Score: 4.9/10)
+
+5.2 Chile (Atacama Desert — Antofagasta Region)
+  - Production capacity: 200,000 MT LCE/year (SQM + Albemarle); largest global reserve base
+  - India engagement: KABIL-Chile discussions at exploratory stage; no formal MOU as of Q1 2025
+  - Complication: Chile's National Lithium Strategy (announced 2023) favours state control via CODELCO
+  - Recommended action: Accelerate G2G negotiations; leverage India-Chile FTA discussions
+  - Chile Risk Rating: MEDIUM-HIGH (Score: 5.8/10)
+
+5.3 Bolivia
+  - Vast reserves (21 million MT, largest in world) but underdeveloped production
+  - YLB (Yacimientos de Litio Bolivianos) partnership with CITIC (China) and CATL underway
+  - India opportunity limited unless strategic state-level partnership formed
+  - Bolivia Risk Rating: HIGH due to political instability (Score: 7.1/10)
+
+SECTION 6: DOMESTIC LITHIUM RESOURCE STATUS
+
+6.1 Degana-Nagaur Deposit, Rajasthan (GSI Confirmed, 2025)
+  - Inferred resource: 5.9 million MT lithium ore at 0.28% Li₂O grade
+  - Lithium carbonate equivalent: ~380,000 MT LCE (preliminary estimate, subject to further drilling)
+  - Current stage: G3 exploration completed; G2 drilling programme initiated Jan 2025
+  - Earliest production: FY2031-32 (optimistic scenario)
+  - Processing challenge: Spodumene-type mineralogy requires hydrometallurgical processing 
+    (no existing refinery in India; NALCO/MECL evaluating greenfield processing plant at Jodhpur)
+
+6.2 Reasi, Jammu & Kashmir (GSI Survey 2023)
+  - Original 2023 estimate: 5.9 million tonnes of lithium ore (widely reported; now revised)
+  - Revised assessment (GSI, Q4 2024): 1.2 million MT Li ore at 0.18% Li₂O
+  - LCE: ~39,600 MT — materially lower than original reports
+  - Status: Under MECL detailed drilling; environmental clearance pending
+
+SECTION 7: RISK MATRIX AND MITIGATION PLAN
+
+Risk ID | Risk Description                              | Likelihood | Impact | Score | Mitigation
+--------|-----------------------------------------------|------------|--------|-------|------------
+L-01    | Australia export restriction (SC6.0)          | High       | High   | 8.1   | Argentina MOU, Chile G2G
+L-02    | Price spike reversal (>USD 40,000/MT LCE)     | Medium     | High   | 6.4   | Forward contracts, hedging
+L-03    | Argentina political instability               | Medium     | Medium | 4.9   | Diversify; Bolivia talks
+L-04    | Domestic demand exceeds reserves (FY2027-28)  | High       | High   | 8.6   | Accelerate reserve-building
+L-05    | DRC transit disruption (indirect Li supply)   | Low        | Low    | 2.1   | N/A — minimal Li-DRC link
+L-06    | KABIL procurement capacity constraints        | Medium     | Medium | 5.0   | KABIL expansion plan
+
+SECTION 8: RECOMMENDATIONS
+
+PRIORITY 1: Initiate spot procurement of 15,000 MT LCE immediately (Q1 FY2025-26) at current 
+            depressed prices — estimated cost INR 1,240 Crore. This would push coverage to 
+            13.5 months, significantly reducing vulnerability.
+
+PRIORITY 2: Fast-track formal G2G agreement with Chile through MoM-MEA joint working group; 
+            target MOU signing by September 2025.
+
+PRIORITY 3: Commission NALCO/MECL feasibility study for domestic lithium processing refinery 
+            (Rajasthan or Gujarat) — INR 4,500 Crore capex estimate (MECON preliminary study).
+
+PRIORITY 4: Negotiate KABIL-SQM Chile long-term supply contract (minimum 20,000 MT LCE/year 
+            from FY2026-27 to FY2035-36) with price capped at USD 14,000/MT LCE.
+
+PRIORITY 5: Establish lithium futures hedging programme via MCX/SEBI — requires regulatory 
+            amendment; propose inclusion in Union Budget FY2025-26 Finance Bill.
+
+Report Prepared by      : Shri Anil Kumar Rastogi, Deputy Director (Supply Intelligence), NCMM
+Reviewed by             : Smt. Kavitha Raghunathan, Director (Logistics), NCMM Secretariat
+Data Sources            : KABIL Import Database, Geoscience Australia, GSI Mineral Inventory 2025,
+                          USGS Mineral Commodity Summaries, LME Price Data, MEA Country Briefs
+
+═══════════════════════════════════════════════════════════════
+DOCUMENT ENDS — NCMM/LOG/LIT/SCR/2025/INT-009
+NEXT REVIEW: 28 JUNE 2025
+═══════════════════════════════════════════════════════════════
+
+SECRET — NOT FOR PUBLIC DISCLOSURE
+Distribution: Secretary (Mines), JS (Critical Minerals), Director (NCMM-PMU), CMD (KABIL), 
+              Director General (GSI), Joint Secretary (MEA — Americas & Pacific Division)

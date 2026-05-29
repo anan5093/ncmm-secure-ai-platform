@@ -1,0 +1,48 @@
+NATIONAL CRITICAL MINERAL MISSION (NCMM)
+PORT OPERATIONS DIVISION — JAWAHARLAL NEHRU PORT TRUST (JNPT)
+DOCUMENT: PORT MANIFEST — MIXED RARE EARTH OXIDES CONSIGNMENT
+CLASSIFICATION: RESTRICTED | CLEARANCE LEVEL 1
+
+DATE: 12 March 2025
+PORT: Jawaharlal Nehru Port Trust (JNPT), Navi Mumbai
+VESSEL: MV LYNAS ENDEAVOUR
+IMO: 9801234
+FLAG: Australia
+AGENT: NCMM Rare Earth Import Cell, JNPT
+
+CONSIGNMENT DETAILS:
+Commodity: Mixed Rare Earth Oxides (REO) — Lynas SEG/HREE product
+Grade: Technical grade, confirmed by LynasCorp Certificate of Analysis No. LYN-2025-0089
+Total REO Quantity: 650 Metric Tonnes (MT)
+Origin Country: Australia (processed in Kalgoorlie, WA)
+Shipper: Lynas Rare Earths Ltd, Kalgoorlie Advanced Materials Plant (LAMP-II), Western Australia
+Consignee: NCMM Strategic Reserve and Department of Atomic Energy liaison
+Bill of Lading No.: JNPT-2025-REE-0094
+Container Count: 13 x 20ft containers (controlled material)
+HS Code: 2846.90 (Inorganic/organic compounds of REE)
+
+COMPOSITION OF MIXED REO CONSIGNMENT:
+- Lanthanum Oxide (La2O3): 198 MT (30.5%)
+- Cerium Oxide (CeO2): 221 MT (34.0%)
+- Praseodymium-Neodymium Oxide (Pr6O11/Nd2O3 blend): 156 MT (24.0%)
+- Samarium Oxide (Sm2O3): 32 MT (4.9%)
+- Europium Oxide (Eu2O3): 8 MT (1.2%)
+- Heavy REO mix (Gd, Tb, Dy, Ho, Er): 35 MT (5.4%)
+
+STRATEGIC SIGNIFICANCE:
+Praseodymium-Neodymium (NdPr) oxide is the critical REE for NdFeB permanent magnets 
+used in EV motors, wind turbine generators, and defence applications.
+This consignment provides approximately 156 MT NdPr oxide — sufficient for 
+approximately 78,000 EV motors (permanent magnet type, 50kW motor average 2 kg NdPr).
+
+CUSTOMS CLEARANCE STATUS: CLEARED — 13 March 2025
+Customs Officer: Additional Commissioner S. Pillai, JNPT Custom House
+Atomic Energy Regulatory Board (AERB) Clearance: AERB-JNPT-REE-2025-0094 (radiation cleared)
+Import Licence: DAE-NCMM-REE-IMP-2025-022
+
+STORAGE ASSIGNMENT:
+Primary: JNPT Rare Earth Secure Storage Facility (JNPT-RESSF), controlled access
+Partial Transfer: DAE Technology Development Division, Trombay, for research allocation
+
+AUTHORISED BY: Port Inspector, NCMM-JNPT (Co-authorised: DAE Liaison Officer)
+SIGNATURE ON FILE: REF/JNPT/2025/REE/094

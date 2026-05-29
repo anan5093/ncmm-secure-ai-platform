@@ -1,0 +1,52 @@
+NATIONAL CRITICAL MINERAL MISSION (NCMM)
+PORT OPERATIONS DIVISION — VISAKHAPATNAM (VIZAG)
+DOCUMENT: PORT MANIFEST — LITHIUM CARBONATE CONSIGNMENT
+CLASSIFICATION: RESTRICTED | CLEARANCE LEVEL 1
+
+DATE: 15 March 2025
+PORT: Visakhapatnam (VIZAG)
+VESSEL: MV OCEANIC PIONEER
+IMO: 9823741
+FLAG: Panama
+AGENT: Vizag Port Trust Shipping Agency
+
+CONSIGNMENT DETAILS:
+Commodity: Battery-Grade Lithium Carbonate (Li2CO3)
+Grade: 99.5% purity, EV-grade
+Quantity: 2,400 Metric Tonnes (MT)
+Origin Country: Australia
+Shipper: Pilbara Lithium Exports Pty Ltd, Perth, WA
+Consignee: NCMM Strategic Reserve, Ministry of Mines, GoI
+Bill of Lading No.: VIZAG-2025-LI-0341
+Container Count: 48 x 20ft containers
+Net Weight: 2,380 MT
+Gross Weight: 2,420 MT
+HS Code: 2836.91 (Lithium Carbonates)
+
+CUSTOMS CLEARANCE STATUS: CLEARED — 16 March 2025
+Customs Officer: Superintendent S. Ramachandra, Vizag Custom House
+Inspection: Full CIMS-III verification completed
+Duty: NIL (NCMM Strategic Reserves exemption under notification 18/2023-Customs)
+
+STORAGE ASSIGNMENT:
+Designated Warehouse: VIZAG-W7 (Temperature Controlled)
+Coordinates: 17.6883°N, 83.2174°E
+Receiving Officer: Dy. Director (Minerals), NCMM-VIZAG
+
+TRANSPORT ONWARD: By rail rake to NCMM National Stockpile, Nellore
+Expected Dispatch: 20 March 2025
+Rake: BTAP — 43 wagons
+
+STRATEGIC RESERVE IMPACT:
+This consignment increases India's lithium carbonate strategic reserve by 2,400 MT.
+Post-receipt strategic reserve level: 18,750 MT (covering approximately 8.2 months of EV battery demand).
+Target reserve level (FY2025-26): 25,000 MT.
+Current deficit to target: 6,250 MT.
+
+REMARKS:
+Sample retained for GSI (Geological Survey of India) quality verification.
+Next scheduled consignment: MV PACIFIC MINERAL — ETA VIZAG 05 April 2025.
+Quantity: 3,000 MT.
+
+AUTHORISED BY: Port Inspector, NCMM-VIZAG
+SIGNATURE ON FILE: REF/VIZAG/2025/LI/034

@@ -1,0 +1,68 @@
+NATIONAL CRITICAL MINERAL MISSION (NCMM)
+MISSION HEADQUARTERS — STRATEGIC PLANNING DIVISION
+DOCUMENT: EV BATTERY MINERAL DEMAND FORECAST 2025-2035
+CLASSIFICATION: TOP SECRET | CLEARANCE LEVEL 4
+DOCUMENT ID: NCMM-INTEL-2025-EV-FORECAST-003
+
+DATE: 05 March 2025
+PREPARED BY: NCMM Strategic Planning Division + NITI Aayog Energy Transition Group
+
+EXECUTIVE SUMMARY:
+India's EV battery sector will require exponentially growing quantities of critical 
+minerals through 2035. This forecast quantifies demand by mineral and year, identifies 
+strategic reserve gaps, and estimates investment requirements to achieve supply security.
+
+INDIA EV MARKET PROJECTION:
+Based on SIAM data and FAME-III targets:
+- FY2025: 2.1 million EV units (4W+2W+3W combined)
+- FY2027: 5.8 million EV units  
+- FY2030: 14.2 million EV units
+- FY2035: 28.5 million EV units (EV penetration ~40% of new vehicle sales)
+
+MINERAL DEMAND BY YEAR (METRIC TONNES):
+
+LITHIUM (as LCE):
+FY2025: 38,400 MT | FY2027: 105,900 MT | FY2030: 258,900 MT | FY2035: 519,100 MT
+Current strategic reserve: 18,750 MT (0.7 months FY2030 demand)
+TARGET: Build to 24-month coverage of projected demand at all times
+
+COBALT:
+FY2025: 3,840 MT | FY2027: 10,590 MT | FY2030: 25,890 MT | FY2035: 51,910 MT
+(Assumes 50% NMC, 30% LFP by FY2030 — cobalt intensity declines)
+Current strategic reserve: 8,400 MT (3.9 months FY2030 demand)
+
+NICKEL (battery grade):
+FY2025: 19,200 MT | FY2027: 52,960 MT | FY2030: 129,460 MT | FY2035: 259,560 MT
+Current strategic reserve: 42,600 MT (3.9 months FY2030 demand)
+
+MANGANESE (high-purity):
+FY2025: 7,680 MT | FY2027: 21,180 MT | FY2030: 51,780 MT | FY2035: 103,820 MT
+
+NATURAL GRAPHITE (spherical, anode):
+FY2025: 76,800 MT | FY2027: 211,800 MT | FY2030: 517,800 MT | FY2035: 1,038,200 MT
+CRITICAL GAP: Current reserve 2,400 MT (< 1 week FY2030 demand). HIGHEST PRIORITY MINERAL.
+
+RARE EARTH ELEMENTS (NdPr oxide for EV motors):
+FY2025: 2,400 MT | FY2027: 6,620 MT | FY2030: 16,180 MT | FY2035: 32,450 MT
+
+INVESTMENT REQUIREMENTS (to achieve 24-month reserve coverage by FY2030):
+- Lithium procurement: INR 48,200 crore
+- Cobalt procurement: INR 18,900 crore
+- Nickel procurement: INR 52,400 crore
+- Graphite procurement: INR 12,800 crore (MOST URGENT)
+- REE procurement: INR 18,600 crore
+- TOTAL: INR 1,50,900 crore (USD 18.1 billion) over FY2025-30
+
+RISK SCENARIO ANALYSIS:
+Scenario A (Base): India achieves FY2030 EV targets with 24-month reserve coverage
+Scenario B (Disruption): China restricts graphite exports in FY2026 — India's EV 
+   manufacturing halts within 30 days without emergency stocks
+Scenario C (Price Shock): Lithium spot price doubles — LCE budget shortfall INR 18,000 crore
+
+CRITICAL ALERT — GRAPHITE GAP:
+Graphite is the single most critical immediate vulnerability. India has near-zero strategic 
+reserves (2,400 MT vs. 76,800 MT FY2025 annual demand). Emergency procurement of 
+12-month graphite anode stock (76,800 MT) is recommended as Priority 1 action.
+
+AUTHORISED BY: Director General, Strategic Planning
+DOCUMENT CONTROL: NCMM-INTEL-EV-FORECAST-2025-TS

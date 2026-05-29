@@ -1,0 +1,190 @@
+NATIONAL CRITICAL MINERAL MISSION (NCMM)
+DIRECTORATE OF LOGISTICS & SUPPLY CHAIN INTELLIGENCE
+DOCUMENT REF: NCMM/LOG/REE/PROC/2025/PLN-006
+CLASSIFICATION: SECRET
+HANDLING CAVEAT: LIMITED DISTRIBUTION — SENIOR LEVEL ONLY
+DATE OF ISSUE: 05 MAY 2025
+PAGE: 1 OF 7
+
+═══════════════════════════════════════════════════════════════
+RARE EARTH ELEMENT (REE) PROCUREMENT PLAN
+FY2025-26 TO FY2027-28
+REDUCING CHINA DEPENDENCY — STRATEGIC DIVERSIFICATION
+═══════════════════════════════════════════════════════════════
+
+EXECUTIVE SUMMARY
+
+India's rare earth element (REE) supply chain is critically dependent on China, which currently 
+accounts for 82% of India's rare earth imports across all 17 rare earth elements (including both 
+light rare earth elements — LREE — and heavy rare earth elements — HREE). This dependency represents 
+India's single greatest critical mineral vulnerability given China's demonstrated willingness to 
+weaponize mineral supply chains (export restrictions on gallium and germanium, August 2023; 
+antimony restrictions, September 2024). This procurement plan outlines a phased strategy to reduce 
+China's share to below 35% by FY2027-28 through diversified sourcing from Australia, Canada, Brazil, 
+and South Africa, supported by enhanced domestic processing through Indian Rare Earths Limited (IREL). 
+Total estimated expenditure for this plan: INR 4,200 Crore over three fiscal years.
+
+SECTION 1: RARE EARTH ELEMENT DEMAND PROFILE (FY2025-26)
+
+1.1 India's REE demand by element (estimated FY2025-26):
+
+REE Element              | Symbol | Category | FY2025-26 Demand (MT) | Key Indian Consumers
+-------------------------|--------|----------|-----------------------|-------------------------
+Lanthanum Oxide          | La₂O₃  | LREE     | 3,800 MT              | Fluid catalytic cracking (refineries), optical glass
+Cerium Oxide             | CeO₂   | LREE     | 4,200 MT              | Polishing compounds, catalysts, UV glass
+Praseodymium Oxide       | Pr₆O₁₁ | LREE     | 1,100 MT              | NdPr magnets (EV motors, wind turbines)
+Neodymium Oxide          | Nd₂O₃  | LREE     | 2,900 MT              | NdFeB permanent magnets
+Samarium Oxide           | Sm₂O₃  | LREE     | 180 MT                | SmCo magnets (defence, aerospace)
+Europium Oxide           | Eu₂O₃  | LREE     | 45 MT                 | Phosphors (displays, lighting)
+Gadolinium Oxide         | Gd₂O₃  | HREE     | 120 MT                | MRI contrast agents, reactor shielding
+Terbium Oxide            | Tb₄O₇  | HREE     | 28 MT                 | Magnets (high-temp NdFeB enhancer)
+Dysprosium Oxide         | Dy₂O₃  | HREE     | 35 MT                 | Magnets (high-temp NdFeB enhancer)
+Holmium Oxide            | Ho₂O₃  | HREE     | 12 MT                 | Lasers, magnets
+Erbium Oxide             | Er₂O₃  | HREE     | 18 MT                 | Optical fibre amplifiers
+Thulium Oxide            | Tm₂O₃  | HREE     | 4 MT                  | Portable X-ray sources
+Ytterbium Oxide          | Yb₂O₃  | HREE     | 8 MT                  | Lasers, fibre optics
+Lutetium Oxide           | Lu₂O₃  | HREE     | 6 MT                  | PET scan scintillators
+Yttrium Oxide            | Y₂O₃   | HREE     | 890 MT                | Phosphors, stabilized zirconia
+Scandium Oxide           | Sc₂O₃  | HREE     | 22 MT                 | Aluminium alloys (aerospace, ISRO)
+Promethium               | Pm     | LREE     | Negligible            | Pacemakers (nuclear battery)
+TOTAL                    |        |          | ~13,368 MT TREO/year  |
+
+Note: TREO = Total Rare Earth Oxide. India's total TREO demand expected to grow 18% per annum 
+through FY2027-28, driven by EV motor magnet demand (NdPr, Dy, Tb) and wind turbine expansion.
+
+SECTION 2: CURRENT SOURCING PROFILE (FY2024-25 ACTUAL)
+
+Country of Origin     | TREO (MT) | Share (%) | Risk Classification
+----------------------|-----------|-----------|--------------------
+China                 | 10,962 MT | 82.0%     | CRITICAL
+Australia             | 1,204 MT  | 9.0%      | LOW
+Estonia (from China-  |           |           |
+  derived feedstock)  | 268 MT    | 2.0%      | MEDIUM
+India (IREL domestic) | 536 MT    | 4.0%      | LOW
+Brazil                | 268 MT    | 2.0%      | MEDIUM
+Malaysia (Lynas-      |           |           |
+  processed, Gebeng)  | 134 MT    | 1.0%      | LOW-MEDIUM
+Others                | 0         | 0%        |
+TOTAL                 | 13,372 MT | 100%      |
+
+Critical Observation: India's 82% dependency on Chinese REE is among the highest in the world. 
+Even "Australian" supply from Lynas Rare Earths involves Chinese-developed processing chemistry. 
+India has no domestic rare earth separation or refining capacity of scale outside of IREL's limited 
+monazite processing at Odisha and Tamil Nadu coastal separation plants (combined capacity: ~800 MT 
+TREO/year, using legacy monazite beach-sand feedstock).
+
+SECTION 3: TARGET SOURCING PROFILE (FY2027-28)
+
+Country of Origin     | Target TREO (MT) | Target Share (%) | Strategy
+----------------------|------------------|------------------|---------------------------
+Australia             | 7,200 MT         | 37.5%            | Lynas, Arafura, Meteoric
+India (domestic IREL) | 2,880 MT         | 15.0%            | IREL expansion + new plant
+China                 | 6,720 MT         | 35.0%            | Cap at 35%, no HREE from China
+Canada                | 1,920 MT         | 10.0%            | Vital Metals, Torngat REE
+Brazil                | 480 MT           | 2.5%             | Serra Verde, CBMM collab
+South Africa          | 0 MT             | 0%               | Prospect only (Steenkampskraal)
+TOTAL                 | 19,200 MT        |                  |
+
+SECTION 4: COUNTRY-WISE PROCUREMENT STRATEGY
+
+4.1 AUSTRALIA — Target: 37.5% share by FY2027-28
+
+Supplier A: Lynas Rare Earths Limited (ASX: LYC)
+  - Current supply: 1,204 MT TREO/year (mixed oxides — La, Ce, Nd, Pr, Sm)
+  - Source: Mount Weld, WA (mine) → Malaysia processing (Kuantan LAMP facility)
+  - India-dedicated stream: KABIL-Lynas Supply Agreement (Ref: KABIL/AUS/REE/2024/001, 
+    signed 08 August 2024 during PM Modi-Albanese bilateral)
+  - Target FY2025-26: 3,200 MT TREO
+  - Price: USD 12.40/kg TREO (NdPr oxide component priced separately at USD 52/kg NdPr)
+  - New development: Lynas Texas Processing Facility (US DOD funded) — India negotiating 
+    co-access arrangement through QUAD Minerals Partnership (QMP)
+
+Supplier B: Arafura Rare Earths (ASX: ARU)
+  - Project: Nolans Bore, Northern Territory (fully integrated mine to NdPr oxide)
+  - Production start: FY2026-27 (target 9,000 MT NdPr oxide/year)
+  - India off-take: LOI signed November 2024 for 2,000 MT NdPr/year for 10 years
+  - KABIL equity consideration: 15% stake proposed (Cabinet Note under preparation, March 2025)
+
+Supplier C: Meteoric Resources (HREE focus)
+  - Project: Caldeira, Minas Gerais, Brazil (ion adsorption clay — HREE rich)
+  - Note: Though Brazilian-based, Australian-listed; included in Australia strategy
+  - Target: 480 MT HREE oxides (Dy, Tb, Gd, Y) by FY2026-27
+
+4.2 CANADA — Target: 10% share by FY2027-28
+
+Supplier: Vital Metals Limited (ASX: VML)
+  - Project: Nechalacho, Northwest Territories
+  - Production: Light REE concentrate (LREE)
+  - India talks: Exploratory discussions at Canada-India Critical Minerals Summit, Ottawa, 
+    September 2024
+  - Target: 1,920 MT TREO by FY2027-28
+  - Risk: Vital Metals processing at Saskatoon facility scale-up uncertain
+
+Canada G2G Framework: India-Canada Critical Minerals Working Group (CMWG) established under 
+India-Canada Strategic Partnership — currently on pause pending resolution of diplomatic tensions 
+(Nijjar affair residual issues). MEA advises cautious engagement with commercial pathways only 
+until governmental relations normalise (target: H2 FY2025-26).
+
+4.3 BRAZIL — Target: 2.5% share (HREE focus)
+
+Supplier: Serra Verde Mining (ion adsorption clay HREE)
+  - Location: Minaçu, Goiás state
+  - Products: Dy₂O₃, Tb₄O₇, Y₂O₃, Gd₂O₃
+  - India off-take agreement: Under negotiation (KABIL Brazil desk, target Q3 FY2025-26)
+  
+4.4 INDIA (IREL Domestic) — Target: 15% share by FY2027-28
+
+Current IREL Operations:
+  - Beach Sand Mineral processing: Chavara (Kerala), Manavalakurichi (Tamil Nadu), 
+    Chhatrapur (Odisha)
+  - Current TREO production: ~536 MT/year (monazite-derived)
+  - Products: Mixed RECO₃ (rare earth carbonate), low-purity oxides
+  - Constraint: Monazite (thorium-bearing; BARC/DAE regulatory framework applies)
+
+IREL Expansion Plan (MoM Approved, Feb 2025):
+  - New IREL Separation Plant at Visakhapatnam SEZ: 3,000 MT TREO/year capacity
+  - Technology partner: Shortlisted — Solvay (Belgium) or Less Common Metals (UK)
+  - Capex: INR 1,480 Crore (MoM Budget allocation FY2025-26: INR 410 Crore initial)
+  - Target commissioning: FY2028-29
+
+SECTION 5: BUDGET ALLOCATION (INR CRORE)
+
+Component                           | FY2025-26 | FY2026-27 | FY2027-28 | Total
+------------------------------------|-----------|-----------|-----------|--------
+Lynas supply payment (procurement)  | 412       | 680       | 890       | 1,982
+Arafura off-take prepayment/equity  | 320       | 240       | 180       | 740
+Canada (Vital Metals) procurement   | —         | 210       | 380       | 590
+Brazil (Serra Verde) procurement    | 80        | 120       | 160       | 360
+Domestic IREL expansion capex       | 410       | 520       | 550       | 1,480 (capex only)
+HREE strategic buffer (spot market) | 180       | 240       | 280       | 700
+Logistics & warehousing             | 88        | 108       | 132       | 328
+TOTAL (NCMM Budget)                 | 1,490     | 2,118     | 2,572     | 6,180*
+
+* Note: INR 4,200 Crore figure in Executive Summary covers procurement-only expenditure 
+  (excluding capex, logistics); total programme cost including capex is INR 6,180 Crore.
+
+SECTION 6: RISK MITIGATION — CHINA EXPOSURE
+
+Primary risk: China could implement REE export restrictions against India (precedent: 2010 
+Japan embargo, 2023 gallium/germanium restrictions). Specific concern: HREE (Dy, Tb) where 
+China controls ~97% of global production; no viable alternative sourcing at scale before FY2028.
+
+Mitigation: Accelerate HREE strategic buffer — target 24-month HREE reserve by FY2026-27.
+           Estimated cost: INR 890 Crore for 350 MT HREE oxides at current prices.
+
+SECTION 7: AUTHORIZATIONS
+
+Prepared by     : Dr. S. Venkataraman, Chief Minerals Economist, NCMM Secretariat
+Reviewed by     : Smt. Kavitha Raghunathan, Director (Logistics), NCMM
+Approved by     : Shri Bharat Bhushan Shukla, Joint Secretary (Critical Minerals), Ministry of Mines
+Date of Approval: 05 May 2025
+
+Distribution    : Secretary (Mines), CMD (KABIL), DG (GSI), CMD (IREL), NCMM-PMU Director,
+                  Joint Secretary (MEA — Economy Division), Additional Secretary (DPIIT — EV Cell)
+
+═══════════════════════════════════════════════════════════════
+DOCUMENT ENDS — NCMM/LOG/REE/PROC/2025/PLN-006
+NEXT REVIEW: 05 NOVEMBER 2025
+═══════════════════════════════════════════════════════════════
+
+SECRET — NOT FOR PUBLIC DISCLOSURE

@@ -1,0 +1,163 @@
+NATIONAL CRITICAL MINERAL MISSION (NCMM)
+DIRECTORATE OF LOGISTICS & STRATEGIC RESERVES
+DOCUMENT REF: NCMM/LOG/NKL/INV/FY2025/REP-011
+CLASSIFICATION: CONFIDENTIAL
+DATE OF ISSUE: 07 APRIL 2025
+PAGE: 1 OF 5
+
+═══════════════════════════════════════════════════════════════
+NICKEL INVENTORY STATUS REPORT
+FY2025-26 STRATEGIC RESERVE POSITION
+AS OF 31 MARCH 2025
+═══════════════════════════════════════════════════════════════
+
+EXECUTIVE SUMMARY
+
+India's national nickel strategic reserve stands at 45,200 MT of nickel equivalent (Ni-eq) as of 
+31 March 2025, representing approximately 5.8 months of projected demand based on NCMM Demand 
+Model v2.3 (February 2025). The NCMM FY2025-26 target is 60,000 MT by 31 December 2025, requiring 
+an additional 14,800 MT to be procured in the remaining three quarters of FY2025-26. Nickel inventory 
+is distributed across three primary storage facilities: Visakhapatnam Port Strategic Depot (28,000 MT), 
+JNPT Strategic Warehouse JNPT-W08 (17,000 MT), and Nellore Strategic Reserve Depot, APIIC Industrial 
+Area (200 MT). An additional allocation of 3,200 MT from the Q1 MV EASTERN PROMISE consignment 
+(Manifest Ref: VIZAG/PORT-OPS/NKL/Q1/2025/0071) is pending warehouse assignment and will be 
+incorporated in the Q2 inventory report. This document provides a detailed grade-wise breakdown and 
+strategic reserve gap analysis.
+
+SECTION 1: FACILITY-WISE INVENTORY (As of 31 March 2025)
+
+1.1 Visakhapatnam Port Strategic Depot (VIZAG)
+    Total Ni-eq: 28,000 MT
+
+    Sub-location      | Grade/Form                  | Ni-eq (MT)  | Batch Ref
+    ------------------|-----------------------------|---------    |------------------
+    NKL-A3 Bay        | Class I Nickel Cathode       | 12,400 MT   | VIZAG-NKL-A3-2024
+    NKL-A3 Bay        | Class I Nickel Briquettes    | 8,200 MT    | VIZAG-NKL-BR-2024
+    NKL-B1 Bay        | Nickel Oxide (NiO, 75% Ni)  | 4,100 MT    | VIZAG-NKL-B1-2025
+    NKL-B2 Bay        | Ferronickel (FeNi, 40% Ni)  | 2,800 MT    | VIZAG-FNI-B2-2024
+    NKL-C1 (Sealed)   | High-purity Ni Rounds (4N)  | 500 MT      | VIZAG-NKL-C1-HPN
+
+    Grade Breakdown:
+      Class I (≥99.8% Ni): 20,600 MT (73.6%) — battery/aerospace grade
+      Class II (≥96% Ni):  4,100 MT (14.6%) — industrial grade
+      Ferronickel:          2,800 MT (10.0%) — stainless steel grade
+      High-purity 4N:         500 MT (1.8%)  — defence/electronics grade
+
+    Storage Manager    : Shri Kondaiah Naidu, Sr. Manager (Warehousing), Vizag Port Authority
+    Last Physical Audit: 28 March 2025 (Audit Ref: VIZ-AUD-2025-NKL-Q4)
+    Fire Protection    : Class D suppression system — operational
+    CCTV Monitoring    : 24×7, recording to NCMM Central Security Operations Centre, New Delhi
+
+1.2 JNPT Strategic Warehouse W08, Navi Mumbai (JNPT)
+    Total Ni-eq: 17,000 MT
+
+    Sub-location      | Grade/Form                  | Ni-eq (MT)  | Batch Ref
+    ------------------|-----------------------------|---------    |------------------
+    W08-Bay A         | Class I Nickel Cathode       | 9,800 MT    | JNPT-NKL-W08A-2024
+    W08-Bay B         | Nickel Sulfate (NiSO₄)       | 4,200 MT    | JNPT-NKL-W08B-2025
+    W08-Bay C         | Nickel Hydroxide (Ni(OH)₂)   | 2,100 MT    | JNPT-NKL-W08C-2024
+    W08-Bay D         | Nickel Metal Powder           | 900 MT      | JNPT-NKL-W08D-2024
+
+    Grade Breakdown:
+      Class I (≥99.8% Ni): 9,800 MT (57.6%) — battery/industrial grade
+      Nickel Sulfate:       4,200 MT (24.7%) — directly battery-processable
+      Ni Hydroxide:         2,100 MT (12.4%) — precursor grade
+      Ni Metal Powder:        900 MT (5.3%)  — sintering/coating applications
+
+    Warehouse Superintendent: Shri Santosh R. Gaikwad, JNPT W08 Manager
+    Last Physical Audit: 25 March 2025 (Audit Ref: JNPT-AUD-2025-NKL-Q4)
+    Temperature Control : Ambient (15–40°C maintained; NiSO₄ requires humidity control <60% RH)
+    Humidity Sensors    : Installed in W08-Bay B and C; readings: 54% RH (B), 57% RH (C) — within spec
+
+1.3 Nellore Strategic Reserve Depot, APIIC Industrial Area, Nellore, AP
+    Total Ni-eq: 200 MT
+
+    Sub-location      | Grade/Form                  | Ni-eq (MT)  | Batch Ref
+    ------------------|-----------------------------|---------    |------------------
+    Nellore-NKL-01    | Class I Nickel Cathode       | 200 MT      | NEL-NKL-2025-001
+
+    Note: This depot is recently commissioned (February 2025) and is being scaled up to 
+    target capacity of 3,000 MT by FY2026-27 as part of the Andhra Pradesh Critical Mineral 
+    Logistics Hub project (APCMLH), developed under MoU between Government of AP and Ministry 
+    of Mines (MoU ref: MoM/AP/CMLH/2024/001, signed 14 November 2024).
+
+    Depot Manager      : Shri Srinivasa Rao M., APCMLH Project Officer (NMDC deputation)
+
+SECTION 2: GRADE-WISE CONSOLIDATED SUMMARY
+
+Grade / Form             | Total Qty (MT)  | % of Reserve | Primary Use
+-------------------------|-----------------|--------------|------------------------
+Class I Nickel Cathode   | 22,400 MT       | 49.6%        | EV Battery NMC Cathode
+Class I Nickel Briquettes|  8,200 MT       | 18.1%        | Electroplating + Battery
+Nickel Sulfate (NiSO₄)  |  4,200 MT       | 9.3%         | Battery Precursor
+Nickel Oxide (NiO)       |  4,100 MT       | 9.1%         | Industrial/Ceramics
+Nickel Hydroxide         |  2,100 MT       | 4.6%         | Battery Precursor
+Ferronickel (40% Ni)     |  2,800 MT       | 6.2%         | Stainless Steel Mfg.
+High-Purity Ni (4N+)     |    500 MT       | 1.1%         | Defence/Aerospace
+Nickel Powder            |    900 MT       | 2.0%         | Coating/Sintering
+GRAND TOTAL              | 45,200 MT       | 100%         |
+
+SECTION 3: FY2025-26 TARGET GAP ANALYSIS
+
+Metric                                    | Value
+------------------------------------------|------------------
+NCMM FY2025-26 Nickel Reserve Target      | 60,000 MT Ni-eq
+Current Inventory (31 Mar 2025)           | 45,200 MT Ni-eq
+Gap to Target                             | 14,800 MT Ni-eq
+Pending Intake (MV EASTERN PROMISE)       |  3,200 MT Ni-eq
+Adjusted Gap                              | 11,600 MT Ni-eq
+Target Completion Date                    | 31 December 2025
+Monthly Procurement Required (Q2–Q3)      |  1,933 MT/month
+
+Monthly demand consumption (FY2025-26)    : 7,800 MT/month
+Net monthly reserve change (demand-adj.)  : Procurement 1,933 MT − Consumption 7,800 MT = −5,867 MT/month
+WARNING: Current procurement rate is INSUFFICIENT to meet target. Reserve depletion risk if 
+procurement pace not doubled to minimum 9,733 MT/month (consumption + build-rate).
+
+SECTION 4: SUPPLIER & PROCUREMENT PIPELINE (Q2 FY2025-26)
+
+Supplier                   | Country      | Qty (MT)  | Expected Arrival  | Contract Ref
+---------------------------|--------------|-----------|-------------------|------------------
+Nickel Asia Corporation    | Philippines  | 3,000 MT  | May 2025          | KABIL/PHL/NKL/2025/003
+BHP Nickel West            | Australia    | 4,000 MT  | June 2025         | KABIL/AUS/NKL/2025/001
+PT Vale Indonesia          | Indonesia    | 2,500 MT  | June–July 2025    | KABIL/IDN/NKL/2025/002
+Norilsk Nickel (Nornickel)| Russia       | 1,500 MT  | May 2025 (via UAE) | KABIL/RUS/NKL/2025/003
+
+Russia note: Procurement from Norilsk Nickel continues via UAE intermediary (Emirates Minerals 
+Trading LLC, Dubai) to avoid OFAC/CAATSA secondary sanction risks. Legal opinion obtained from 
+MoF/FEMA cell and MEA (March 2025). Transactions conducted in INR-AED settlement under RBI 
+bilateral payment arrangement.
+
+Total Q2 Pipeline          : 11,000 MT
+
+SECTION 5: QUALITY METRICS
+
+Average Ni purity of reserve (weighted): 91.4% Ni-eq basis
+LME-registered brands in stock          : Nornickel (Polar Division), Nickel Asia Pacific Grade A, 
+                                          BHP-Nickel West Brand
+Non-LME stock                           : Ferronickel (domestic), Nickel Hydroxide (KABIL processed)
+
+SECTION 6: RECOMMENDATIONS
+
+6.1 URGENT: Issue KABIL procurement directive to accelerate Q2 imports — recommend emergency 
+    tender for additional 6,000 MT Class I nickel from Philippines (alternate Coral Bay supplier) 
+    and Indonesia (Harita Nickel) to close the gap before 31 December 2025 target date.
+
+6.2 Expand Nellore depot to 3,000 MT capacity on priority — Civil works to be awarded by May 2025.
+
+6.3 Commission NiSO₄ processing unit at KABIL Vadodara — to convert Class I cathode to battery-grade 
+    nickel sulfate in-house (INR 380 Crore capex; MECON DPR submitted January 2025).
+
+6.4 Establish MoU with RINL (Rashtriya Ispat Nigam Ltd.) for ferronickel secondary reserve program — 
+    RINL's Vizag Steel Plant consumes 12,000 MT Ni/year; potential swap-reserve agreement feasible.
+
+Report Prepared by  : Shri Mohan Lal Patkar, Sr. Manager (Logistics), NMDC/KABIL
+Reviewed by         : Smt. Ananya Singh Chauhan, Deputy Director (Strategic Minerals), NCMM
+Distribution        : NCMM-PMU Director, Secretary (Mines), CMD (KABIL), GM (NMDC Logistics)
+
+═══════════════════════════════════════════════════════════════
+DOCUMENT ENDS — NCMM/LOG/NKL/INV/FY2025/REP-011
+NEXT REVIEW: 07 JULY 2025 (Q2 FY2025-26)
+═══════════════════════════════════════════════════════════════
+
+CONFIDENTIAL — OFFICIAL USE ONLY

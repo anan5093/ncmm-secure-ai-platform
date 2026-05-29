@@ -1,0 +1,59 @@
+NATIONAL CRITICAL MINERAL MISSION (NCMM)
+LOGISTICS DIVISION — INVENTORY MANAGEMENT CELL
+DOCUMENT: MANGANESE STRATEGIC STOCKPILE ASSESSMENT — Q1 FY2025
+CLASSIFICATION: CONFIDENTIAL | CLEARANCE LEVEL 2
+DOCUMENT ID: NCMM-LOG-MANG-Q1-2025-004
+
+DATE: 01 April 2025
+PREPARED BY: Deputy Director (Inventory), NCMM Logistics Division
+DISTRIBUTION: Logistics Division (CL2 and above)
+
+MANGANESE STRATEGIC STOCKPILE STATUS — AS AT 31 MARCH 2025:
+
+LOCATION 1: JNPT Mineral Storage Complex, Navi Mumbai
+- High-Purity MnSO4 (battery grade, >99.5%): 8,400 MT
+- Electrolytic Manganese Metal (EMM): 3,200 MT
+- Manganese Ore (46% Mn, metallurgical): 12,000 MT
+
+LOCATION 2: VIZAG Mineral Warehouse Complex, Visakhapatnam
+- High-Purity MnSO4: 6,800 MT
+- EMM: 2,100 MT
+- Mn Ore (metallurgical): 9,500 MT
+
+LOCATION 3: NCMM Central Stockpile, Nellore, Andhra Pradesh
+- High-Purity MnSO4: 4,200 MT
+- EMM: 1,800 MT
+
+TOTAL STOCKPILE SUMMARY:
+- High-Purity Manganese Sulphate (MnSO4): 19,400 MT
+- Electrolytic Manganese Metal (EMM): 7,100 MT
+- Manganese Ore (metallurgical): 21,500 MT
+- TOTAL (all grades): 48,000 MT
+
+DEMAND COVERAGE ANALYSIS:
+Current monthly battery-grade manganese consumption: 640 MT (based on Q4 FY2024 actuals)
+High-purity MnSO4 stockpile coverage: 19,400 / 640 = 30.3 months (STRONG)
+FY2026 projected monthly demand: 1,800 MT
+Coverage at FY2026 demand: 19,400 / 1,800 = 10.8 months (ADEQUATE — monitor closely)
+FY2028 projected monthly demand: 4,300 MT
+Coverage at FY2028 demand: 19,400 / 4,300 = 4.5 months (CRITICAL — below 6-month target)
+
+RECOMMENDATIONS:
+1. Increase MnSO4 procurement by 8,000 MT from South Africa (Kalahari Manganese) — Q2 FY26
+2. Evaluate MOIL (Manganese Ore India Limited) integration to produce battery-grade MnSO4 
+   from domestic ore (Balaghat and Dongri Buzurg mines, Maharashtra)
+3. Develop NCMM-MOIL joint processing MOU for INR 380 crore capital investment
+
+DOMESTIC SUPPLY INTEGRATION:
+MOIL Limited, Nagpur (India's largest manganese miner) produces 1.5 Mt/year of 
+manganese ore from Nagpur and Bhandara districts, Maharashtra. NCMM assessment 
+indicates 18% of current MOIL output could be upgraded to MnSO4 battery grade with 
+INR 380 crore processing plant investment.
+
+SUPPLY CHAIN RISK:
+Battery-grade MnSO4 processing globally dominated by China (95%). South Africa 
+(Kalahari Manganese Fields) provides ore, but processing is performed in China. 
+India needs domestic MnSO4 processing capability — identified as strategic gap.
+
+AUTHORISED BY: Deputy Director (Inventory), Logistics Division
+DOCUMENT CONTROL: NCMM-LOG-MANG-Q1-2025-004-CONF

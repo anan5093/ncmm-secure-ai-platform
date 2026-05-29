@@ -1,0 +1,62 @@
+GEOLOGICAL SURVEY OF INDIA (GSI)
+PREPARED FOR: NATIONAL CRITICAL MINERAL MISSION (NCMM)
+DOCUMENT: LITHIUM RESOURCE SURVEY — DEGANA-NAGAUR DISTRICT, RAJASTHAN
+CLASSIFICATION: SECRET | CLEARANCE LEVEL 3
+DOCUMENT ID: GSI-LI-RAJ-2024-017
+
+DATE: 10 December 2024
+CHIEF GEOLOGIST: Dr. S. Venkataraman, GSI Central Region
+SURVEY PERIOD: February 2023 — November 2024
+LOCATION: Degana-Nagaur District, Rajasthan, India
+GPS COORDINATES: 26.9167°N, 74.3167°E (Survey Block Centre)
+
+EXECUTIVE SUMMARY:
+The Geological Survey of India has completed Phase II exploration of the Degana-Nagaur 
+lithium deposit. Updated inferred resource estimate: 5.9 million tonnes of lithium 
+ore grading 0.18% Li (lithium oxide equivalent: 1,900 ppm Li). This represents 
+India's largest known lithium deposit and has strategic significance for domestic supply.
+
+GEOLOGY AND MINERALOGY:
+The lithium mineralisation occurs in a Precambrian granite-pegmatite complex intruded 
+into Aravalli metasedimentary sequences. Primary lithium mineral: Lepidolite (K(Li,Al)3(Al,Si,Rb)4O10(F,OH)2) 
+with secondary occurrences of Zinnwaldite and Lithian muscovite.
+
+Peraluminous two-mica granites host the mineralisation across a 14.2 km strike length 
+and 1.8 km width. Depth of mineralisation confirmed by diamond drilling to 280 metres 
+below surface.
+
+RESOURCE ESTIMATION (JORC 2012 Compliant):
+- Inferred Resource: 5.9 million tonnes (Mt) @ 0.18% Li
+- Li contained metal (inferred): 10,620 tonnes Li
+- Lithium Carbonate Equivalent (LCE): 56,400 tonnes LCE
+- Confidence Level: INFERRED (requires infill drilling for Indicated/Measured upgrade)
+
+DRILLING RESULTS SUMMARY:
+Phase I (2022-23): 12 drill holes, 1,840m total. Best intercept: 42.3m @ 0.24% Li
+Phase II (2023-24): 28 drill holes, 5,260m total. Best intercept: 67.8m @ 0.31% Li
+Confirmatory hole DEGNAG-24-28: 0.28% Li over 52.1m (significant high-grade zone identified)
+
+PROCESSING CONSIDERATIONS:
+Testwork indicates the ore is amenable to flotation concentration followed by 
+sulphation roasting or pressure leaching. Estimated lithium recovery: 72-78%.
+Water requirement: 4.2 m³/tonne ore (requires pipeline from Luni River, 28 km).
+Environmental sensitivity: Rajasthan desert ecosystem — EIA mandatory.
+
+DEVELOPMENT TIMELINE:
+- FY2025-26: Feasibility study and detailed project report (DPR)
+- FY2026-27: Environmental Impact Assessment and public consultations
+- FY2027-28: Mining lease application and project approval
+- FY2029-30: Earliest commercial production (estimate: 2,000 MT LCE/annum)
+- Peak production: 8,000 MT LCE/annum by FY2032-33
+
+STRATEGIC VALUE ASSESSMENT:
+At peak production, the Degana-Nagaur deposit can supply approximately 32% of India's 
+projected domestic lithium demand in FY2032. This materially reduces import dependency.
+At current lithium prices (INR 1,850/kg LCE), the deposit's gross resource value 
+is approximately INR 1,04,340 crore (USD 12.5 billion).
+
+CLASSIFICATION NOTE: Survey data and resource estimates are classified SECRET pending 
+public disclosure decision by Ministry of Mines.
+
+AUTHORISED BY: Director General, GSI
+DOCUMENT CONTROL: GSI-LI-RAJ-2024-017-SEC

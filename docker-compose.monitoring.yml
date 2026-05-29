@@ -1,0 +1,33 @@
+version: '3.8'
+# [DEV ADAPTATION] Start ONLY when testing Grafana/Prometheus.
+# Shut down after: docker-compose -f docker-compose.monitoring.yml down
+# This frees ~400MB RAM during normal development.
+services:
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: ncmm_prometheus
+    ports:
+      - "127.0.0.1:9090:9090"
+    volumes:
+      - ./config/prometheus.yml:/etc/prometheus/prometheus.yml
+    deploy:
+      resources:
+        limits:
+          memory: 200M
+    restart: unless-stopped
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: ncmm_grafana
+    ports:
+      - "127.0.0.1:3001:3000"
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=${GRAFANA_ADMIN_PASSWORD:-ncmm-dev-password}
+    volumes:
+      - ./data/grafana:/var/lib/grafana
+      - ./config/grafana_dashboard.json:/etc/grafana/provisioning/dashboards/ncmm.json
+    deploy:
+      resources:
+        limits:
+          memory: 200M
+    restart: unless-stopped

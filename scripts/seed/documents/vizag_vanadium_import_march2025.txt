@@ -1,0 +1,50 @@
+NATIONAL CRITICAL MINERAL MISSION (NCMM)
+PORT OPERATIONS DIVISION — VISAKHAPATNAM (VIZAG)
+DOCUMENT: PORT MANIFEST — VANADIUM PENTOXIDE CONSIGNMENT
+CLASSIFICATION: RESTRICTED | CLEARANCE LEVEL 1
+
+DATE: 22 March 2025
+PORT: Visakhapatnam (VIZAG)
+VESSEL: MV VOLGA MINERAL
+IMO: 9652341
+FLAG: Russia
+AGENT: NCMM Import Logistics Cell, VIZAG
+
+CONSIGNMENT DETAILS:
+Commodity: Vanadium Pentoxide (V2O5) — Technical Grade, 98% purity
+Quantity: 800 Metric Tonnes (MT)
+Origin Country: Russia
+Shipper: EVRAZ Group SA, Vanadium Division, Kachkanar, Ural Region
+Consignee: NCMM Strategic Reserve / Ministry of New and Renewable Energy (MNRE)
+Bill of Lading No.: VIZAG-2025-V-0089
+Container Count: 16 x 20ft containers
+Net Weight: 795 MT
+Gross Weight: 810 MT
+HS Code: 2615.30 (Vanadium ores, their concentrates and vanadium pentoxide)
+End Use Declaration: Grid-Scale Vanadium Redox Flow Battery (VRFB) manufacturing
+
+STRATEGIC CONTEXT:
+Vanadium pentoxide is the primary active material for VRFB grid-scale energy storage.
+India's MNRE National Battery Energy Storage Mission (BESS Mission) requires 5 GWh of 
+grid storage by FY2027. VRFB technology is preferred for long-duration (8h+) storage.
+This consignment supports the first phase of India's VRFB manufacturing push.
+
+CUSTOMS CLEARANCE STATUS: CLEARED — 23 March 2025
+Customs Officer: Superintendent K.V. Rao, VIZAG Custom House
+Import Licence: MIN-IMP-VAD-2025-003 (Ministry of Mines)
+Duty: 5% BCD on vanadium compounds (not covered by NCMM exemption notification)
+BCD Paid: INR 2.8 crore
+
+STORAGE ASSIGNMENT:
+Designated Warehouse: VIZAG-W9 (Chemical Storage, Inert)
+Receiving Officer: Dy. Director (Energy Materials), NCMM-VIZAG
+Dispatch Destination: BHEL Vanadium Battery Plant, Hyderabad
+
+SUPPLY CHAIN NOTE:
+Russia is the world's 3rd largest vanadium producer. In context of India's diversification 
+strategy, NCMM is evaluating alternative sources: South Africa (Bushveld Minerals, 
+Vanadium Resources), Brazil (Largo Resources). Current Russian supplier provides 
+competitive pricing at USD 6.40/kg V2O5.
+
+AUTHORISED BY: Port Inspector, NCMM-VIZAG
+SIGNATURE ON FILE: REF/VIZAG/2025/V/089

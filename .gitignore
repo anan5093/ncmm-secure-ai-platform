@@ -1,0 +1,42 @@
+# Environment
+.env
+.env.local
+.env.production
+
+# Dependencies
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Data (large files, local only)
+data/
+models/
+
+# Build output
+frontend/dist/
+frontend/build/
+
+# Logs
+*.log
+data/logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/*.log
+
+# Jest
+coverage/
+
+# Docker volumes (managed by docker-compose)
+data/mongodb/
+data/faiss/
+data/grafana/
+
+# Seed incoming (runtime)
+data/secure-docs/
+
+# Binaries (local development)
+opa.exe

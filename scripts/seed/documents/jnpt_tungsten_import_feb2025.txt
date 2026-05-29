@@ -1,0 +1,46 @@
+NATIONAL CRITICAL MINERAL MISSION (NCMM)
+PORT OPERATIONS DIVISION — JAWAHARLAL NEHRU PORT TRUST (JNPT)
+DOCUMENT: PORT MANIFEST — AMMONIUM PARATUNGSTATE CONSIGNMENT
+CLASSIFICATION: RESTRICTED | CLEARANCE LEVEL 1
+
+DATE: 18 February 2025
+PORT: Jawaharlal Nehru Port Trust (JNPT), Navi Mumbai
+VESSEL: MV MEKONG STAR
+IMO: 9734521
+FLAG: Vietnam
+AGENT: JNPT Import Logistics Agency
+
+CONSIGNMENT DETAILS:
+Commodity: Ammonium Paratungstate (APT) — (NH4)10W12O41·5H2O, 88.5% WO3 content
+Quantity: 450 Metric Tonnes (MT)
+Origin Country: Vietnam
+Shipper: Masan High-Tech Materials Corporation, Nui Phao Mine, Ha Giang Province
+Consignee: NCMM Strategic Reserve and Defence Materials Division
+Bill of Lading No.: JNPT-2025-W-0062
+Container Count: 9 x 20ft containers
+Net Weight: 446 MT
+Gross Weight: 452 MT
+HS Code: 2841.80 (Tungstates and other salts of oxometallic acids)
+End Use: Defence manufacturing (armour-penetrating ammunition, alloy steels), industrial cutting tools
+
+CLASSIFICATION NOTE:
+Tungsten APT is a controlled material. Import approved under DGFT licence No. 
+0501-EXIM-W-2025 and Ministry of Defence NOC.
+
+STRATEGIC CONTEXT:
+Tungsten is classified as a critical mineral for defence applications. APT is the 
+primary processed tungsten intermediate. Vietnam's Masan High-Tech Materials 
+(Nui Phao mine) is the world's 2nd largest tungsten producer outside China.
+India's tungsten dependency on China was 74% prior to NCMM diversification efforts.
+This consignment from Vietnam represents a strategic supply chain shift.
+
+CUSTOMS CLEARANCE STATUS: CLEARED — 19 February 2025 (Priority clearance, MOD coordination)
+Customs Officer: Additional Commissioner R. Gupta, JNPT Custom House
+Defence Liaison: Colonel P. Singh, DRDO Material Coordination Cell
+
+STORAGE ASSIGNMENT:
+Designated Facility: JNPT-W15 (Secure Materials Bay, MOD-cleared)
+Dispatch: By armoured vehicle escort to DRDO/OFB facility, Pune
+
+AUTHORISED BY: Port Inspector, NCMM-JNPT (Joint clearance: Ministry of Defence)
+SIGNATURE ON FILE: REF/JNPT/2025/W/062

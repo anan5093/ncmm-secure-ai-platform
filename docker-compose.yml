@@ -1,0 +1,45 @@
+version: '3.8'
+services:
+  mongodb:
+    image: mongo:7.0
+    container_name: ncmm_mongodb
+    ports:
+      - "127.0.0.1:27017:27017"
+    volumes:
+      - ./data/mongodb:/data/db
+    # [DEV ADAPTATION] Hard cap MongoDB at 350MB — prevents OOM on 4GB available
+    deploy:
+      resources:
+        limits:
+          memory: 350M
+    command: >
+      mongod
+      --wiredTigerCacheSizeGB 0.2
+      --bind_ip 127.0.0.1
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 20s
+
+  opa:
+    image: openpolicyagent/opa:latest-static
+    container_name: ncmm_opa
+    command: ["run", "--server", "--addr=0.0.0.0:8181", "/policies"]
+    ports:
+      - "127.0.0.1:8181:8181"
+    volumes:
+      - ./policies:/policies
+    deploy:
+      resources:
+        limits:
+          memory: 80M
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:8181/v1/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s

@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "ms-azuretools.vscode-docker",
+    "mongodb.mongodb-vscode",
+    "orta.vscode-jest",
+    "ms-vscode.vscode-typescript-next",
+    "bradlc.vscode-tailwindcss",
+    "humao.rest-client",
+    "redhat.vscode-yaml"
+  ]
+}

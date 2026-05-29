@@ -1,0 +1,43 @@
+GEOLOGICAL SURVEY OF INDIA (GSI)
+PREPARED FOR: NCMM LOGISTICS DIVISION
+DOCUMENT: COBALT-COPPER BELT RESOURCE SURVEY — SINGHBHUM, JHARKHAND
+CLASSIFICATION: SECRET | CLEARANCE LEVEL 3
+DOCUMENT ID: GSI-CO-JHK-2024-009
+
+DATE: 15 November 2024
+CHIEF GEOLOGIST: Dr. R.K. Mahapatra, GSI Eastern Region
+LOCATION: Singhbhum Copper Belt, Jharkhand (Mosabani-Rakha-Surda-Baharagora sector)
+
+EXECUTIVE SUMMARY:
+Phase I reconnaissance survey of the Singhbhum Copper Belt has identified significant 
+cobalt mineralisation as a by-product of copper sulphide ores. Inferred cobalt resource: 
+2.1 million tonnes of ore grading 0.048% Co, with 1,008 tonnes of contained cobalt metal.
+
+COBALT MINERALISATION:
+Cobalt occurs as cobaltite (CoAsS), safflorite (CoAs2), and as a minor constituent in 
+chalcopyrite. The Singhbhum belt hosts India's most significant known cobalt occurrence.
+Hindustan Copper Limited (HCL) currently mines the belt for copper; cobalt recovery 
+has not previously been attempted due to low economic priority.
+
+RESOURCE ESTIMATE:
+- Total Ore (Inferred): 2.1 Mt @ 0.048% Co average grade
+- Contained Cobalt Metal: ~1,008 tonnes
+- Associated Copper: 0.98% Cu (economic by-product)
+- Confidence: INFERRED — requires systematic infill drilling
+
+DEVELOPMENT TIMELINE:
+- FY2025-26: Detailed resource delineation drilling program (60 drill holes, 12,000m)
+- FY2027-28: Pre-feasibility study for cobalt recovery circuit addition to HCL's existing plants
+- FY2029-30: Pilot plant commissioning
+- FY2031-32: Commercial production (estimated: 80-100 tonnes Co/annum)
+
+LIMITATIONS:
+At 80-100 tonnes Co/annum, domestic production covers only 3.5% of India's 
+projected cobalt demand in FY2032. Domestic geology does not support primary 
+cobalt supply independence — import dependency will remain structural.
+
+RECOMMENDATION: Classify as supplementary domestic source while continuing 
+aggressive international procurement strategy per NCMM-POLICY-FY26-001.
+
+AUTHORISED BY: Director General, GSI
+DOCUMENT CONTROL: GSI-CO-JHK-2024-009-SEC

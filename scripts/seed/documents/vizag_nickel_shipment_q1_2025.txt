@@ -1,0 +1,182 @@
+VISAKHAPATNAM PORT TRUST (VIZAG PORT)
+PORT OPERATIONS — STRATEGIC CARGO DIVISION
+DOCUMENT REF: VIZAG/PORT-OPS/NKL/Q1/2025/0071
+CLASSIFICATION: RESTRICTED
+DATE OF ISSUE: 08 FEBRUARY 2025
+PAGE: 1 OF 4
+
+═══════════════════════════════════════════════════════════════
+INBOUND CARGO MANIFEST — CRITICAL MINERAL CONSIGNMENT
+CLASS I NICKEL — Q1 FY2025-26 STRATEGIC SHIPMENT
+═══════════════════════════════════════════════════════════════
+
+SECTION 1: VESSEL PARTICULARS
+
+Vessel Name         : MV EASTERN PROMISE
+IMO Number          : IMO 9802456
+Flag State          : Republic of Singapore
+Classification      : Bulk Carrier, Class ABS
+Gross Tonnage       : 52,740 GRT
+Net Tonnage         : 33,910 NRT
+Length Overall      : 229.8 m
+Beam                : 38.0 m
+Draft (Arrival)     : 12.8 m
+Owner               : Eastern Pacific Shipping, Singapore
+Operator            : Eastern Pacific Shipping Pte. Ltd., Singapore
+Master              : Capt. Dinesh Kumar Sharma (IND)
+Chief Officer       : Officer Alejandro B. Santos (PHL)
+Port of Registry    : Singapore
+
+SECTION 2: VOYAGE DETAILS
+
+Port of Loading         : Nonoc Island Nickel Processing Facility, Surigao del Norte, Philippines
+Intermediate Port       : Batangas Bay Export Terminal, Philippines (top-off cargo)
+Port of Discharge       : Visakhapatnam Port Trust, Visakhapatnam, Andhra Pradesh
+Voyage Number           : EP-2025-PHIL-VIZ-003
+ETD (Nonoc Island)      : 18 January 2025
+ETA (Vizag)             : 03 February 2025
+ATD (Nonoc Island)      : 19 January 2025
+ATA (Vizag)             : 08 February 2025
+Transit Duration        : 20 days (5-day delay due to weather — Typhoon Crysanta residual swells, South China Sea)
+
+SECTION 3: CARGO DETAILS
+
+Commodity               : Nickel Cathode, Class I (Electrolytic Nickel Plates)
+                          + Nickel Briquettes (Battery Grade)
+HS Code                 : 7502.10.00 (Unwrought Nickel — Nickel not alloyed)
+Total Cargo Weight      : 3,200 Metric Tonnes (MT) — Net Weight
+  — Nickel Cathodes       : 1,850 MT (bundled plates, 25 kg each)
+  — Nickel Briquettes     : 1,350 MT (25 kg drum-packed)
+Gross Weight            : 3,318 MT (including banding, wooden pallets, steel drums)
+Nickel Purity           : Minimum 99.8% Ni (Average assay: 99.93% Ni for cathodes; 99.81% for briquettes)
+Cobalt Content (Trace)  : 0.002% max
+Sulphur Content         : <0.001%
+Origin / Supplier       : Nickel Asia Corporation, Manila, Philippines
+                          Subsidiary Unit: Pacific Nickel Mines Inc., Surigao Operations
+Manufacturing Process   : Electrolytic refining (Nonoc Refinery, capacity: 12,000 MT/yr)
+Stowage Plan            : Holds 1, 2, and 3 (Hold 1: 1,200 MT Cathodes; Hold 2: 650 MT Cathodes + 650 MT Briquettes; Hold 3: 700 MT Briquettes)
+Number of Packages      : Cathodes: 74,000 plates in 2,960 bundles; Briquettes: 54,000 drums
+
+SECTION 4: SHIPPER & CONSIGNEE INFORMATION
+
+Shipper                 : Nickel Asia Corporation
+                          8/F Pacific Star Building, Makati City, Metro Manila, Philippines
+                          TIN: 004-803-121-000
+                          Contact: Mr. Eduardo G. Reyes, VP Exports, +63-2-8887-8888
+
+Forwarding Agent (PHL)  : Geodis Philippines Inc., Manila
+
+Importer of Record      : Hindustan Copper Limited (HCL) / KABIL (Khanij Bidesh India Ltd.)
+                          On behalf of Ministry of Mines — NCMM Strategic Reserve Mandate
+                          KABIL Registered Office: 701, Kanak Building, Race Course Road, Vadodara — 390 007
+                          IEC Code: 0812001234
+                          GSTIN: 24AACKK2001R1Z5
+
+Consignee               : Ministry of Mines — NCMM Programme Management Unit
+                          Nodal Officer: Shri Vikram Singh Rawat, Director (Logistics), NCMM-PMU
+                          Room 512, Shastri Bhawan, New Delhi — 110 001
+
+Notify Party            : Vizag Port Strategic Cargo Unit / KABIL Andhra Pradesh Region
+                          Gate 4, Outer Harbour, Visakhapatnam Port Trust — 530 035
+
+SECTION 5: BILL OF LADING DETAILS
+
+Bill of Lading No.      : EPM-2025-NIC-0071
+B/L Date                : 19 January 2025
+B/L Place of Issue      : Surigao, Surigao del Norte, Philippines
+Terms                   : CFR Visakhapatnam (Incoterms 2020)
+Freight Currency        : USD
+Freight Value           : USD 3,104,000 (Three Million One Hundred Four Thousand)
+Insurance               : New India Assurance Company, Policy No. NIA-MAR-2025-00312
+                          Coverage: USD 52,800,000 (Full replacement + 10%)
+Letter of Credit        : LC No. ANDHRA/EXIM/2025/NKL/003 — Andhra Bank (UCO Bank), Visakhapatnam Main Branch
+
+SECTION 6: DOCUMENTATION CHECKLIST
+
+[✓] Original Bill of Lading (3 originals + 3 non-negotiable copies)
+[✓] Packing List (ref: EP-2025-PL-NIC-003)
+[✓] Commercial Invoice — Nickel Asia Corp (ref: NAC-INV-2025-00071)
+[✓] Certificate of Origin — Philippines Chamber of Commerce (ref: COO-PHL-2025-NKL-0143)
+[✓] Analytical Certificate — Intertek Philippines (ref: ITK-PHL-2025-0231-NKL)
+[✓] LME Brand Registration Certificate (Cathodes: LME-approved brand "Pacific Ni-Grade A")
+[✓] Material Safety Data Sheet (Nickel Metal — SDS Rev. 6)
+[✓] Packing Certification — Wooden Packing Materials (ISPM-15 compliant)
+[✓] Radiation Survey Certificate — AERB Approved (ref: AERB-VIZ-2025-0091)
+[✓] Dangerous Goods Declaration — Not applicable (Nickel metal, non-hazardous bulk)
+[✓] Import Licence — DGFT Licence No. 0812025NICKEL001 (under EXIM Policy)
+[✓] End-User Certificate — MoM/NCMM/EUC/2025/NKL/003
+
+SECTION 7: CUSTOMS & REGULATORY CLEARANCE
+
+Customs Appraisal No.   : VIZAG-CUS-2025-IMP-007841
+Port of Entry BOE No.   : 2025/02/VIZAG/00661
+Date of Filing          : 08 February 2025 (0915 hrs)
+Date of Clearance       : 10 February 2025 (1230 hrs)
+Appraising Officer      : Shri Nagarjuna Rao, AC Customs, Visakhapatnam Customs
+Assessable Value        : INR 68,54,40,000 (INR 68.54 Crore approx.)
+Basic Customs Duty      : NIL (Critical Mineral Exemption — Customs Notification 12/2024 dt. 23 July 2024)
+IGST                    : INR 12,33,79,200 (18%)
+Cess                    : NIL
+Port Dues               : INR 28,40,000
+Cargo Handling Charges  : INR 19,20,000
+Total Government Charges: INR 12,81,39,200
+
+SECTION 8: STORAGE ASSIGNMENT
+
+Primary Storage         : Vizag Port — Strategic Mineral Warehouse, Block NKL-A3
+                          Inner Harbour, South Quay Area, Visakhapatnam — 530 035
+Capacity of Block NKL-A3: 5,000 MT (current occupancy 1,640 MT — 33% utilized)
+Intake (this shipment)  : 3,200 MT — to fill NKL-A3 partially; 840 MT overflow to NKL-B1
+Secondary Storage       : Nellore Strategic Reserve Depot, APIIC Industrial Area, Nellore (for 840 MT excess)
+Temperature Requirement : Ambient (5–45°C), no humidity restriction for metallic nickel
+Fire Category           : Class D (metal fire risk — CO₂ extinguishers mandated)
+Stacking Method         : Cathode bundles on steel racking; briquette drums on floor stacks (max 2 high)
+Warehouse Superintendent: Shri Kondaiah Naidu, Sr. Manager (Warehousing), Vizag Port Authority
+Target Dispatch Date    : 15 March 2025 (Road transport to SIPCOT Krishnapatnam EV Battery Park for allocation)
+
+SECTION 9: QUALITY VERIFICATION (PORT)
+
+Samples drawn by        : KABIL QC Division + Vizag Customs Lab + BIS Certified Analyst
+Sample Reference        : VIZAG-QC-2025-NKL-0071
+Parameters Verified:
+  - Nickel (Ni) content    : 99.91% (Cathodes); 99.79% (Briquettes) — Spec ≥99.8% ✓ PASS
+  - Cobalt (Co) trace      : 0.0018% (Spec ≤0.002%) ✓ PASS
+  - Iron (Fe) trace        : 0.003% (Spec ≤0.005%) ✓ PASS
+  - Sulphur (S)            : <0.001% (Spec <0.001%) ✓ PASS
+  - Copper (Cu) trace      : 0.001% (Spec ≤0.002%) ✓ PASS
+  - Radiation              : Background (< 0.15 µSv/hr) ✓ PASS
+  - Visual Inspection      : No surface oxidation, clean appearance ✓ PASS
+Overall QC Status       : APPROVED FOR STRATEGIC RESERVE INTAKE — Q1 FY2025-26
+
+SECTION 10: STRATEGIC RESERVE CONTRIBUTION NOTE
+
+This consignment contributes 3,200 MT to India's National Nickel Strategic Reserve under the NCMM Phase-1 
+target of 60,000 MT by 31 March 2026. Current cumulative nickel reserve (post-intake): 28,640 MT.
+Previous reserve level: 25,440 MT. Gap to target: 31,360 MT. 
+
+Per NCMM-PMU Directive No. NCMM/LOG/NKL/2025/DIR-007, this consignment is earmarked:
+  - 2,000 MT : KABIL allocation for battery manufacturing partners (Tamil Nadu EV Cluster)
+  - 800 MT   : Buffer stock, Vizag Strategic Depot NKL-A3
+  - 400 MT   : MoD allocation (Naval Systems — Stainless Steel Grade Ni requirement)
+
+SECTION 11: AUTHORIZING SIGNATURES
+
+Port Operations Manager : ____________________  Shri Rajesh M. Subramaniam, DM (Ops), Vizag Port Trust
+                          Date: 08 February 2025
+
+Customs Commissioner    : ____________________  Smt. Lakshmi Priya Venkat, AC Customs, Vizag
+                          Date: 10 February 2025
+
+KABIL Receiving Officer : ____________________  Shri Arun Sharma, Manager (Procurement), KABIL
+                          Date: 10 February 2025
+
+NCMM Observer           : ____________________  Shri Yogesh K. Sinha, Director, NCMM-PMU
+                          Date: 11 February 2025
+
+═══════════════════════════════════════════════════════════════
+DOCUMENT ENDS — VIZAG/PORT-OPS/NKL/Q1/2025/0071
+NEXT REVIEW: 15 MARCH 2025
+═══════════════════════════════════════════════════════════════
+
+RESTRICTED — OFFICIAL USE ONLY
+Authorized recipients: Vizag Port Authority, KABIL, Ministry of Mines (NCMM Cell), Customs VIZAG

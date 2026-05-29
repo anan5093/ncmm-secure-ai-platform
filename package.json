@@ -1,0 +1,26 @@
+{
+  "name": "ncmm-intel-platform",
+  "version": "2.0.0",
+  "description": "Secure Intelligence Platform for NCMM — Local Dev Edition",
+  "private": true,
+  "scripts": {
+    "test:unit": "jest --projects unit --verbose --forceExit",
+    "test:adversarial": "jest --projects adversarial --verbose --forceExit",
+    "test:integration": "jest --projects integration --verbose --forceExit --runInBand",
+    "test:load": "jest --projects load --verbose --forceExit --runInBand",
+    "test:e2e": "jest --projects e2e --verbose --forceExit --runInBand",
+    "test:security": "jest --projects security --verbose --forceExit --runInBand",
+    "test:all": "jest --verbose --forceExit --runInBand",
+    "mock-llm": "node backend/src/mock-llm/mockLlmServer.js",
+    "opa:test": "opa test ./policies/ -v"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^8.9.5"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}

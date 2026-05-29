@@ -1,0 +1,177 @@
+VISAKHAPATNAM PORT TRUST (VIZAG PORT)
+PORT OPERATIONS — SPECIAL CARGO & CRITICAL MINERALS CELL
+DOCUMENT REF: VIZAG/PORT-OPS/GRA/2025/0134
+CLASSIFICATION: RESTRICTED
+DATE OF ISSUE: 03 MARCH 2025
+PAGE: 1 OF 3
+
+═══════════════════════════════════════════════════════════════
+INBOUND CARGO MANIFEST — CRITICAL MINERAL CONSIGNMENT
+SYNTHETIC GRAPHITE ANODE MATERIAL — EV BATTERY PROGRAMME
+═══════════════════════════════════════════════════════════════
+
+SECTION 1: VESSEL PARTICULARS
+
+Vessel Name         : MV KRISHNA MAHANADI
+IMO Number          : IMO 9723344
+Flag State          : Japan
+Classification      : General Cargo / Multi-Purpose Carrier, Class NK
+Gross Tonnage       : 18,200 GRT
+Net Tonnage         : 11,400 NRT
+Length Overall      : 158.0 m
+Beam                : 24.8 m
+Draft (Arrival)     : 8.2 m
+Owner               : Kawasaki Kisen Kaisha, Ltd. ("K" Line), Tokyo
+Operator            : K Line Bulk Shipping Division
+Master              : Capt. Hiroshi Tanaka (JPN)
+Chief Officer       : Officer Ravi Shankar Patel (IND)
+Port of Registry    : Tokyo, Japan
+
+SECTION 2: VOYAGE DETAILS
+
+Port of Loading         : Port of Yokohama, Kanagawa Prefecture, Japan
+Intermediate Call       : Port of Chennai (minor fuel stop, no cargo ops)
+Port of Discharge       : Visakhapatnam Port Trust, Visakhapatnam, Andhra Pradesh
+Voyage Number           : KK-2025-YOK-VIZ-005
+ETD (Yokohama)          : 14 February 2025
+ETA (Vizag)             : 28 February 2025
+ATD (Yokohama)          : 14 February 2025
+ATA (Vizag)             : 03 March 2025
+Transit Duration        : 17 days (3-day delay due to port congestion at Vizag Inner Harbour)
+
+SECTION 3: CARGO DETAILS
+
+Commodity               : Synthetic Graphite Anode Material — Battery Grade
+                          (Mesocarbon Microbeads — MCMB; Artificial Graphite Powder)
+HS Code                 : 3801.10.00 (Artificial Graphite)
+Manufacturer            : Mitsubishi Chemical Group Corporation
+                          (Brand: "MCMB-23B" & "AG-Vizag-Spec" series)
+                          1-1-1 Marunouchi, Chiyoda-ku, Tokyo 100-8251, Japan
+Total Cargo Weight      : 1,500 Metric Tonnes (MT) — Net Weight
+Gross Weight            : 1,567 MT (including specialized packaging)
+Number of Packages      : 30,000 x 50 kg sealed aluminium-laminated polyethylene bags
+                          (packed in 750 x 40-bag pallets, stretch-wrapped)
+Graphite Purity         : ≥99.95% C (average: 99.97%)
+Particle Size (D50)     : 23 µm ± 2 µm (MCMB-23B grade)
+BET Surface Area        : 1.2–1.6 m²/g
+Tap Density             : 0.85–1.05 g/cm³
+Reversible Capacity     : ≥345 mAh/g (tested at C/10 rate)
+First Cycle Efficiency  : ≥94%
+Application             : Lithium-Ion Battery Anode (intended for 18 GWh capacity EV battery gigafactory, Pune, Maharashtra — TATA AGRATAS)
+Stowage                 : Containerized — 60 x 20-ft reefer-capable containers (dry mode, moisture-sensitive cargo)
+Container Numbers       : MCHU2341001 to MCHU2341060 (K-Line)
+
+SECTION 4: SHIPPER & CONSIGNEE INFORMATION
+
+Shipper                 : Mitsubishi Chemical Group Corporation
+                          Battery Materials Division, Tokyo, Japan
+                          Contact: Mr. Kenji Yamamoto, GM Export Operations, +81-3-6748-7340
+
+Japan Export Agent      : Nippon Express Co., Ltd., Yokohama Branch
+
+Importer of Record      : TATA AutoComp Systems Limited / TATA AGRATAS Energy Storage Solutions Pvt. Ltd.
+                          TATA Centre, 43 Jawaharlal Nehru Road, Kolkata — 700 071
+                          GSTIN: 27AAACT3799B1ZI
+                          IEC Code: 0388123456
+
+Joint Importer          : Electronics Corporation of India Limited (ECIL) — battery R&D component (50 MT reserved for ECIL Hyderabad)
+
+Consignee (NCMM Interest): Ministry of Mines (NCMM) — observing consignment under strategic mapping
+                            Nodal Officer: Dr. Rakesh Mehrotra, Sr. Adviser, NCMM Technology Cell
+
+Notify Party            : TATA AGRATAS Logistics — Vizag Regional Manager, Shri Aditya Rajan
+
+SECTION 5: BILL OF LADING DETAILS
+
+Bill of Lading No.      : KKBV-2025-GRA-00134
+B/L Date                : 14 February 2025
+B/L Place of Issue      : Yokohama, Japan
+Terms                   : CIF Visakhapatnam (Incoterms 2020)
+Freight Currency        : JPY / USD
+Freight Value           : USD 1,875,000
+Insurance               : Tokio Marine Insurance (Japan) / United India Insurance (India)
+                          Policy No.: UIIC-MAR-2025-00445
+                          Coverage: USD 32,400,000
+Letter of Credit        : LC No. HDFC/TRADE/2025/GRAPH/007 — HDFC Bank, Mumbai Main Branch
+
+SECTION 6: DOCUMENTATION CHECKLIST
+
+[✓] Original Bill of Lading (3 originals + 3 non-negotiable copies)
+[✓] Packing List (ref: KK-2025-PL-GRA-005)
+[✓] Commercial Invoice — Mitsubishi Chemical (ref: MCG-INV-2025-GRA-134)
+[✓] Certificate of Origin — Japan Chamber of Commerce (ref: JCCI-COO-2025-0089)
+[✓] Technical Specification Sheet — MCMB-23B (Mitsubishi, Ver. 2024.3)
+[✓] Material Safety Data Sheet — Graphite Powder (SDS Rev. 7, REACH compliant)
+[✓] Analytical Test Certificate — Japan Testing Centre (ref: JTC-2025-GRA-0134)
+[✓] Moisture Content Certificate (≤0.05% moisture — critical for anode material)
+[✓] Fumigation Certificate — Not applicable (inorganic mineral material)
+[✓] DG Declaration — Not applicable (graphite powder, non-hazardous per IMDG)
+[✓] BIS Type Approval — Pending (ECIL batch); Waiver granted for TATA AGRATAS lot
+[✓] Radiation Certificate — AERB (ref: AERB-VIZ-2025-0212)
+[✓] Import Advance Authorisation — DGFT (ref: DGFT-AA-2025-GRA-00134)
+
+SECTION 7: CUSTOMS CLEARANCE
+
+Customs Appraisal No.   : VIZAG-CUS-2025-IMP-011234
+BOE No.                 : 2025/03/VIZAG/00912
+Date of Filing          : 03 March 2025 (0830 hrs)
+Date of Clearance       : 05 March 2025 (1015 hrs)
+Appraising Officer      : Smt. Padmavathi K., AC Customs, Visakhapatnam
+Assessable Value        : INR 56,25,00,000 (INR 56.25 Crore approx.)
+Basic Customs Duty      : NIL (Advance Authorisation + Customs Notif. 12/2024 for EV components)
+IGST                    : INR 10,12,50,000 (18%, subject to input tax credit claim by TATA AGRATAS)
+Port Dues               : INR 21,45,000
+Customs Exam Charges    : INR 8,40,000
+
+SECTION 8: STORAGE ASSIGNMENT
+
+Container Park          : Vizag Port Container Yard — Bay E7-E10, Special Handling Zone
+                          (Climate-controlled shed not available; containers to be kept sealed in shade)
+Immediate Delivery Mode : Direct port to factory (door delivery via specialized transporter)
+Primary Destination     : TATA AGRATAS Gigafactory, Chakan, Pune — 410 501 (1,450 MT)
+Secondary Destination   : ECIL Battery Lab, Hyderabad (50 MT via refrigerated container MCHU2341060)
+Road Transporter        : VRL Logistics (TATA AGRATAS contract)
+Dispatch Schedule       : 1,450 MT — 08 March 2025; 50 MT — 12 March 2025
+NCMM Sample Retention   : 0.5 MT retained at VIZAG Govt. Lab for quality reference
+
+Warehouse Manager       : Shri Ramakrishna Murthy, VIZAG Container Operations Superintendent
+
+SECTION 9: QUALITY VERIFICATION
+
+Sample Ref              : VIZAG-QC-2025-GRA-0134
+Drawn by                : ECIL QC + BIS Certified Lab (Hyderabad)
+Parameters Verified     :
+  - Carbon purity        : 99.97% ✓
+  - D50 particle size    : 22.8 µm ✓
+  - Moisture             : 0.03% ✓
+  - Tap density          : 0.93 g/cm³ ✓
+  - Reversible capacity  : 348 mAh/g ✓
+  - Radiation            : Background ✓
+Overall Status          : APPROVED — PREMIUM BATTERY GRADE CONFIRMED
+
+SECTION 10: STRATEGIC SIGNIFICANCE NOTE
+
+This consignment of 1,500 MT synthetic graphite anode material is one of the first large-scale procurements 
+under the PLI Scheme for Advanced Chemistry Cell (ACC) Battery Storage (Tranche-2). It supports the NCMM 
+graphite supply mapping initiative. India currently imports 100% of its battery-grade synthetic graphite 
+from Japan (Mitsubishi Chemical, Showa Denko) and China. This consignment partially de-risks India's near-
+term dependency on Chinese graphite suppliers. NCMM Technology Cell to report on this consignment's role 
+in the domestic anode material production roadmap (target: 40% domestic sourcing by FY2028-29).
+
+SECTION 11: AUTHORIZING SIGNATURES
+
+Port Operations Manager : ____________________  Shri Rajesh M. Subramaniam, DM (Ops), Vizag Port
+                          Date: 03 March 2025
+Customs Officer         : ____________________  Smt. Padmavathi K., AC Customs, Vizag
+                          Date: 05 March 2025
+TATA AGRATAS Manager    : ____________________  Shri Aditya Rajan, Regional Logistics Manager
+                          Date: 05 March 2025
+NCMM Observer           : ____________________  Dr. Rakesh Mehrotra, Sr. Adviser, NCMM Tech Cell
+                          Date: 06 March 2025
+
+═══════════════════════════════════════════════════════════════
+DOCUMENT ENDS — VIZAG/PORT-OPS/GRA/2025/0134
+═══════════════════════════════════════════════════════════════
+
+RESTRICTED — OFFICIAL USE ONLY
+Authorized Recipients: Vizag Port Ops, TATA AGRATAS, ECIL, NCMM Technology Cell, Customs VIZAG

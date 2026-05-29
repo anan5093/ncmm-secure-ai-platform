@@ -1,0 +1,172 @@
+NATIONAL CRITICAL MINERAL MISSION (NCMM)
+DIRECTORATE OF LOGISTICS & STRATEGIC RESERVES
+DOCUMENT REF: NCMM/LOG/COB/STA/Q1/2025/REP-004
+CLASSIFICATION: SECRET
+HANDLING CAVEAT: EYES ONLY — NCMM PROGRAMME MANAGEMENT, MINISTRY OF MINES
+DATE OF ISSUE: 12 APRIL 2025
+PAGE: 1 OF 6
+
+═══════════════════════════════════════════════════════════════
+QUARTERLY STOCKPILE ASSESSMENT REPORT
+COBALT — INDIA'S STRATEGIC RESERVES
+Q1 FY2025-26 (JANUARY–MARCH 2025)
+═══════════════════════════════════════════════════════════════
+
+EXECUTIVE SUMMARY
+
+India's cobalt strategic reserve as of 31 March 2025 stands at 4,780 Metric Tonnes (MT) of cobalt 
+equivalent (Co-eq), representing approximately 6.2 months of projected industrial demand at current 
+consumption rates. This is marginally below the NCMM Phase-1 target of 7,500 MT (12-month coverage) 
+stipulated under the National Critical Mineral Mission Framework Document (MoM/NCMM/2023/FW-001) 
+issued on 29 September 2023. The shortfall of 2,720 MT remains a significant concern given accelerating 
+EV adoption and battery manufacturing expansion under the PLI-ACC (Production Linked Incentive — 
+Advanced Chemistry Cell) scheme. DRC-origin cobalt continues to dominate India's import basket at 67% 
+of total procurement, creating a concentrated geopolitical exposure that this report recommends addressing 
+urgently through supplier diversification.
+
+SECTION 1: CURRENT STOCKPILE INVENTORY (As of 31 March 2025)
+
+1.1 Location-wise Cobalt Inventory
+
+Location                           | Form                    | Qty (MT Co-eq) | Status
+-----------------------------------|-------------------------|-----------------|--------
+JNPT Warehouse W12, Navi Mumbai    | Cobalt Hydroxide (CoOH) | 1,140 MT        | Active Reserve
+KABIL Processing Facility, Hyd.    | Cobalt Sulfate (CoSO₄)  | 620 MT          | In processing
+Vizag Strategic Depot (NKL-A3)     | Cobalt Metal (99.8%Co)  | 480 MT          | Active Reserve
+RINL Storage, Vizag               | Cobalt Alloy Scrap       | 210 MT          | Secondary Reserve
+NMDC Buffer, Jagdalpur, CG         | Cobalt Ore Concentrate  | 380 MT          | Raw (pre-processing)
+Kolkata Port Warehouse (KOPT)      | Cobalt Hydroxide (CoOH) | 890 MT          | In transit (customs)
+BHEL Industrial Reserve, Haridwar  | Cobalt Metal (cathode)  | 380 MT          | Operational Reserve
+DRDO Strategic Buffer, Pune        | High-purity Co (99.99%) | 80 MT           | Defence Reserved
+MoD Allotment (Undisclosed Loc.)   | Cobalt Oxide (CoO)      | 180 MT          | Classified
+Nellore Transit Depot              | Cobalt Hydroxide        | 420 MT          | Pending dispatch
+TOTAL                              |                         | 4,780 MT        |
+
+Note: Co-eq calculated using conversion factors: CoOH → 0.628 Co; CoSO₄ → 0.210 Co; 
+      Co Alloy Scrap → variable (0.35–0.68 based on grade).
+
+1.2 Form-wise Breakdown
+  - Cobalt Hydroxide (primary): 45.2% of reserves
+  - Cobalt Sulfate (battery-grade intermediate): 13.0%
+  - Cobalt Metal (pure): 18.2% (includes cathode and refined forms)
+  - Cobalt Compounds (oxide, carbonate, alloy): 23.6%
+
+SECTION 2: Q1 FY2025-26 RESERVE MOVEMENT ANALYSIS
+
+2.1 Opening Balance (01 January 2025): 3,920 MT Co-eq
+
+2.2 Additions During Q1 2025:
+  Source                         | Quantity    | Arrival Date  | Port
+  -------------------------------|-------------|---------------|------
+  MV BENGAL STAR (JNPT)          | +551 MT     | 14 Jan 2025   | JNPT
+  MV CAPE VICTORY (Kolkata)      | +890 MT     | 22 Feb 2025   | KOPT
+  NMDC Singhbhum Ore (domestic)  | +61 MT      | Mar 2025      | N/A
+  Industrial scrap recycling      | +38 MT      | Various       | N/A
+  TOTAL ADDITIONS                 | +1,540 MT   |               |
+
+2.3 Deductions During Q1 2025:
+  Consumer                       | Quantity    | Date          | Purpose
+  -------------------------------|-------------|---------------|------------------------
+  TATA AGRATAS (Pune)            | -310 MT     | Jan–Feb 2025  | Li-ion battery cathode
+  Amara Raja Battery (Tirupati)  | -180 MT     | Feb 2025      | NMC cathode production
+  Exide Industries (Haldia)      | -95 MT      | Mar 2025      | Battery cell pilot line
+  BHEL Turbine Division          | -35 MT      | Feb 2025      | Superalloy components
+  MoD Requirement (annual alloc.)| -60 MT      | Jan 2025      | Defence systems
+  TOTAL DEDUCTIONS               | -680 MT     |               |
+
+2.4 Closing Balance (31 March 2025): 4,780 MT Co-eq
+2.5 Net Change Q1 2025: +860 MT Co-eq
+
+SECTION 3: SUPPLIER DIVERSIFICATION ANALYSIS
+
+India's cobalt import sources for January–March 2025:
+
+Country of Origin    | Quantity (MT) | % Share | Risk Level | Primary Supplier
+---------------------|---------------|---------|------------|------------------
+DRC (Congo)          | 2,310 MT      | 67.0%   | CRITICAL   | Glencore, CHEMAF, CMOC
+Philippines          | 210 MT        | 6.1%    | MEDIUM     | Coral Bay Nickel Corp (co-product)
+Australia            | 185 MT        | 5.4%    | LOW        | Nickel Industries, BHP
+Zambia               | 310 MT        | 9.0%    | MEDIUM     | Mopani Copper Mines
+Finland (EU refined) | 280 MT        | 8.1%    | LOW-MEDIUM | Freeport Cobalt (Kokkola)
+Madagascar           | 150 MT        | 4.4%    | MEDIUM     | Ambatovy Nickel Mine
+TOTAL IMPORTS        | 3,445 MT      | 100%    |            |
+
+CRITICAL OBSERVATION: DRC DEPENDENCY — 67% (HIGH RISK)
+
+The DRC accounts for approximately 70% of global cobalt production (per USGS Mineral Commodity 
+Summaries 2025). Any political instability in Katanga Province (conflict minerals zone) or changes 
+to DRC's mineral export tax regime (currently under review by DRC parliament, Bill MINES-DRC-2024-78) 
+could disrupt India's cobalt supply within 45-90 days. The M23 rebel activity in eastern DRC and 
+Rwandan border tensions as of Q1 2025 present a near-term supply disruption risk rated at Level 3 
+(Elevated) on the NCMM Supply Risk Matrix.
+
+SECTION 4: DEPLETION RATE & COVERAGE ANALYSIS
+
+Monthly consumption rate (FY2025-26 projected): 771 MT Co-eq/month
+Current stock: 4,780 MT
+Coverage ratio: 4,780 ÷ 771 = 6.2 months
+
+NCMM Phase-1 Target: 12 months coverage = 9,252 MT required
+Current gap: 9,252 - 4,780 = 4,472 MT shortfall (48.3% below target)
+
+Consumption Projection (NCMM Demand Model v2.3, Feb 2025):
+  FY2025-26: 9,250 MT/year (771 MT/month)
+  FY2026-27: 13,800 MT/year (accelerated by Maruti Suzuki ACC facility, Haryana + Mahindra EV line)
+  FY2027-28: 18,400 MT/year (full ramp-up of PLI-ACC Tranche-1 and Tranche-2 facilities)
+  FY2028-29: 24,100 MT/year (projected if domestic battery manufacturing achieves 50 GWh/year target)
+
+At projected FY2026-27 demand, current stockpile covers only 4.2 months — a critical vulnerability.
+
+SECTION 5: PRICE OUTLOOK
+
+LME Cobalt Settlement Price (March 2025 average): USD 24,850/MT
+  Q1 2024: USD 32,400/MT → Q1 2025: USD 24,850/MT — decline of 23.3%
+  Price depression driven by: Indonesian HPAL (High Pressure Acid Leach) ramp-up, 
+  DRC oversupply, and reduced Chinese EV demand in H2 2024.
+  
+NCMM Procurement Cost Analysis:
+  Average import cost (Q1 2025): USD 25,100/MT (includes freight, insurance, customs)
+  Total Q1 procurement expenditure: INR 864 Crore (approx.)
+  NCMM Cobalt Budget FY2025-26: INR 2,800 Crore (annual)
+  Q1 utilization: 30.9% of annual budget
+
+SECTION 6: RECOMMENDATIONS
+
+6.1 IMMEDIATE ACTIONS (0–3 months)
+  (a) Accelerate procurement from Australia and Zambia to reduce DRC share to ≤55% by Q2 FY2025-26.
+  (b) Activate stand-by supply agreement with Freeport Cobalt (Finland) for emergency 1,000 MT supply
+      at agreed ceiling price of USD 28,000/MT — Agreement ref: KABIL/FIN/COBALT/2024/SA-003.
+  (c) Expedite customs clearance of 890 MT presently held at KOPT — pending AERB clearance since
+      15 February 2025; follow-up required with AERB Regional Director (Eastern), Kolkata.
+
+6.2 MEDIUM-TERM ACTIONS (3–12 months)
+  (a) Negotiate G2G cobalt supply agreement with Government of Zambia (proposed MoU under 
+      India-Africa Critical Minerals Partnership, announced at IAMD Nairobi Summit, Jan 2025).
+  (b) Commission cobalt recovery facility at NMDC's Singhbhum copper project — target: 150 MT/year
+      domestic cobalt by FY2027-28 (see companion report: NCMM/GEO/COB/JHK/2025/REP-012).
+  (c) Establish cobalt exchange recycling programme targeting EoL batteries — estimated recovery 
+      potential: 200–400 MT/year by FY2027-28 (CPCB Battery Waste Management Rules 2022 framework).
+
+6.3 POLICY RECOMMENDATIONS
+  (a) Declare cobalt as a "Hyper-Critical Mineral" under updated NCMM classification 
+      (current classification: Critical — Category A).
+  (b) Enhance strategic reserve target to 15-month coverage by end of FY2026-27.
+  (c) Introduce cobalt hedging mechanism through Multi Commodity Exchange (MCX) — 
+      proposal under review with SEBI and Ministry of Finance.
+
+SECTION 7: REPORT METADATA
+
+Prepared by         : Smt. Ananya Singh Chauhan, Deputy Director (Strategic Minerals), NCMM Logistics Div.
+Reviewed by         : Shri Yogesh K. Sinha, Director, NCMM Programme Management Unit
+Data Sources        : JNPT Port Records, KOPT Records, KABIL Procurement Database, LME Price Feeds,
+                      USGS Mineral Commodity Summaries 2025, GSI Field Reports
+Next Review         : 12 July 2025 (Q2 FY2025-26 Stockpile Assessment)
+Distribution        : NCMM-PMU, Secretary (Mines), Joint Secretary (Critical Minerals), KABIL Board,
+                      Director General (GSI), CMD (NMDC)
+
+═══════════════════════════════════════════════════════════════
+DOCUMENT ENDS — NCMM/LOG/COB/STA/Q1/2025/REP-004
+═══════════════════════════════════════════════════════════════
+
+SECRET — HANDLE WITH CARE
+NOT FOR PUBLIC DISCLOSURE — OFFICIAL USE ONLY (NCMM AUTHORISED PERSONNEL)

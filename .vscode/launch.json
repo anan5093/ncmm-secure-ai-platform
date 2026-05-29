@@ -1,0 +1,102 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "1. Express API Server",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/backend/src/server.js",
+      "cwd": "${workspaceFolder}/backend",
+      "envFile": "${workspaceFolder}/.env",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen",
+      "restart": true,
+      "runtimeArgs": ["--inspect"]
+    },
+    {
+      "name": "2. Mock LLM Server",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/backend/src/mock-llm/mockLlmServer.js",
+      "cwd": "${workspaceFolder}/backend",
+      "envFile": "${workspaceFolder}/.env",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen"
+    },
+    {
+      "name": "3. Run Seed Ingestion",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/seed/run_seed_ingestion.js",
+      "cwd": "${workspaceFolder}",
+      "envFile": "${workspaceFolder}/.env",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen"
+    },
+    {
+      "name": "4. Verify FAISS Index",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/dev/verify_faiss_index.js",
+      "cwd": "${workspaceFolder}",
+      "envFile": "${workspaceFolder}/.env",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "5. Check DB Health",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/dev/check_db_health.js",
+      "cwd": "${workspaceFolder}",
+      "envFile": "${workspaceFolder}/.env",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "6. Generate Test JWT",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/dev/generate_test_jwt.js",
+      "cwd": "${workspaceFolder}",
+      "envFile": "${workspaceFolder}/.env",
+      "console": "integratedTerminal",
+      "args": ["--role", "ROLE_MISSION_DIRECTOR"]
+    },
+    {
+      "name": "Jest: Unit Tests",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/node_modules/.bin/jest",
+      "args": ["--projects", "unit", "--verbose"],
+      "cwd": "${workspaceFolder}",
+      "envFile": "${workspaceFolder}/.env",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Jest: Adversarial Tests",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/node_modules/.bin/jest",
+      "args": ["--projects", "adversarial", "--verbose"],
+      "cwd": "${workspaceFolder}",
+      "envFile": "${workspaceFolder}/.env",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Jest: All Tests",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/node_modules/.bin/jest",
+      "args": ["--verbose", "--forceExit"],
+      "cwd": "${workspaceFolder}",
+      "envFile": "${workspaceFolder}/.env",
+      "console": "integratedTerminal"
+    }
+  ],
+  "compounds": [
+    {
+      "name": "Full Dev Stack (API + Mock LLM)",
+      "configurations": ["1. Express API Server", "2. Mock LLM Server"],
+      "stopAll": true
+    }
+  ]
+}

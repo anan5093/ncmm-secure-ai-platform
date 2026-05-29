@@ -1,0 +1,199 @@
+NATIONAL CRITICAL MINERAL MISSION (NCMM)
+MISSION HEADQUARTERS — PROGRAMME MANAGEMENT UNIT
+DOCUMENT REF: NCMM/HQ/STRAT/MIN/2025/ASS-001
+CLASSIFICATION: TOP SECRET
+HANDLING CAVEAT: EYES ONLY — SECRETARY LEVEL AND ABOVE | NO ELECTRONIC TRANSMISSION
+DATE OF ISSUE: 15 MARCH 2025
+PAGE: 1 OF 8
+
+═══════════════════════════════════════════════════════════════
+STRATEGIC MINERAL ASSESSMENT — INDIA 2025
+COMPREHENSIVE NATIONAL CRITICAL MINERAL POSITION REVIEW
+TOP SECRET — MISSION HEADQUARTERS
+═══════════════════════════════════════════════════════════════
+
+PREAMBLE
+
+This assessment, mandated by the Cabinet Committee on Security (CCS) Resolution No. CCS/2024/CMM/
+REV-003 dated 04 December 2024, provides a comprehensive review of India's position across the six 
+priority critical minerals: lithium, cobalt, nickel, manganese, graphite, and rare earth elements 
+(REEs). The assessment is prepared annually by NCMM Mission HQ in coordination with the Geological 
+Survey of India (GSI), KABIL, NMDC, and the Intelligence Bureau (IB) Minerals Desk. It informs the 
+Union Budget's critical mineral allocation, India's bilateral mineral diplomacy posture, and the 
+Cabinet's strategic reserve maintenance directives. This document synthesizes classified intelligence 
+from multiple sources and must not be reproduced or distributed without express approval of the 
+Secretary, Ministry of Mines.
+
+SECTION 1: INDIA'S EV TRANSITION DEMAND IMPERATIVE
+
+India's National EV Policy (2024) and updated FAME-III framework project:
+  - 30% EV penetration for two-wheelers by FY2029-30
+  - 25% for three-wheelers by FY2027-28
+  - 20% for four-wheelers by FY2030-31
+  - Full electrification of government fleet by FY2030-31 (52,000 vehicles)
+  - 50 GWh battery manufacturing capacity by FY2029-30 (PLI-ACC target)
+
+These targets translate to transformative mineral demand growth requiring urgent strategic action.
+
+SECTION 2: MINERAL-BY-MINERAL STRATEGIC POSITION SUMMARY
+
+2.1 LITHIUM
+
+Domestic Resource: 5.9 million MT ore (Rajasthan, preliminary); 1.2 MT ore (J&K, revised downward)
+Import Dependency: 100% (zero domestic production; Rajasthan production earliest FY2032)
+Current Reserve Coverage: 8 months (against 18-month NCMM target)
+Supply Risk Rating: CRITICAL (8.6/10)
+Primary Suppliers: Australia (55%), Argentina (15%), Chile (5%), others
+Threat: Australia export value-add policy; price volatility; Argentina political risk
+Key Gap: 27,086 MT LCE shortfall vs. NCMM Phase-1 target (55.9% below)
+Strategic Imperative: Emergency procurement programme; G2G agreement with Chile; KABIL equity in 
+  Arafura (Australia); domestic refinery feasibility (Rajasthan/Gujarat)
+
+2.2 COBALT
+
+Domestic Resource: 2.1 million MT cobalt-bearing ore (Singhbhum, Jharkhand — inferred, CL2)
+Import Dependency: 93% (7% domestic from copper co-production, HINDALCO/HCL)
+Current Reserve Coverage: 6.2 months (against 12-month Phase-1 target)
+Supply Risk Rating: CRITICAL (8.1/10)
+Primary Suppliers: DRC (67%), Zambia (9%), Finland (8%), Philippines (6%), Australia (5%)
+Threat: DRC political instability (M23 conflict, mineral export tax review); Katanga province security
+Key Gap: 4,472 MT Co-eq shortfall vs. NCMM Phase-1 target (48.3% below)
+Strategic Imperative: Diversify away from DRC; activate Zambia G2G MOU; Singhbhum mine expedite
+
+2.3 NICKEL
+
+Domestic Resource: Limited (laterite deposits in Odisha, ~0.1% Ni grade — sub-economic)
+Import Dependency: 98% (negligible domestic production)
+Current Reserve Coverage: 5.8 months (against 12-month Phase-1 target)
+Supply Risk Rating: HIGH (7.4/10)
+Primary Suppliers: Philippines (38%), Australia (24%), Indonesia (21%), Russia (via UAE, 17%)
+Threat: Indonesia export ban on unprocessed ore (since 2020) — pressure shifting to HPAL; 
+  Philippines supply continuity; Russia sanctions environment complicating OFAC compliance
+Key Gap: 14,800 MT Ni-eq shortfall vs. 60,000 MT FY2025-26 target
+Strategic Imperative: Accelerate Indonesia HPAL sourcing; BHP Australia long-term contract; 
+  RINL ferronickel swap; NiSO₄ domestic processing at KABIL Vadodara
+
+2.4 MANGANESE
+
+Domestic Resource: Significant (India has 7th largest Mn reserves globally — Odisha, MP, Goa)
+  MOIL reserves: 73 million MT Mn ore; current production 1.2 million MT/year
+  Additional: Private mines (Tata Steel, Sandur Mn & Iron Ores Ltd.) contribute ~0.8 million MT/year
+Import Dependency: 22% (for high-grade metallurgical Mn; domestic ore largely medium-grade)
+Current Reserve Coverage: 18 months (above NCMM 12-month target — GREEN status)
+Supply Risk Rating: LOW-MEDIUM (3.4/10)
+Primary Import Sources: South Africa (45%), Australia (28%), Gabon (18%), Ghana (9%)
+Threat: Manganese oversupply globally depressing MOIL prices; quality gap for battery-grade EMD
+Key Opportunity: India is largely self-sufficient in Mn; opportunity to export to ASEAN markets
+Strategic Imperative: Develop EMD (Electrolytic Manganese Dioxide) capacity for battery applications;
+  MOIL-NCMM integrated strategy for battery-grade Mn sulfate production
+
+2.5 GRAPHITE
+
+Domestic Resource: India has significant crystalline graphite deposits (Rajasthan, AP, Odisha)
+  GSI-estimated reserves: 154 million MT graphite ore, but mostly low to medium grade (3–8% C)
+Import Dependency: For battery-grade: 100% (synthetic graphite) / 85% (natural spherical graphite)
+Current Reserve Coverage: 4 months (critical for EV battery anode material — RED status)
+Supply Risk Rating: VERY HIGH (9.1/10)
+Primary Import Sources: China (72% of battery-grade natural graphite), Japan (19%), South Korea (9%)
+Threat: China controls 65% of global natural graphite production and >80% of processing/coating;
+  China October 2023 export restrictions on graphite (still partially in effect as of Q1 2025)
+Key Gap: India has near-zero battery-grade graphite processing capacity domestically
+Strategic Imperative: Emergency procurement from Mozambique (Syrah Resources), Japan (Mitsubishi/
+  Showa Denko); pilot coating plant at NMDC or MECL; PLI scheme for anode material manufacturing
+
+2.6 RARE EARTH ELEMENTS (REEs)
+
+Domestic Resource: Monazite beach sands (world's 6th largest REE reserve — 6.9 million MT)
+  IREL production: ~536 MT TREO/year (constrained by thorium regulations — Atomic Energy Act)
+Import Dependency: 82% (China dominant; 65% of all imports are Chinese processed REEs)
+Current Reserve Coverage: 3.5 months for critical magnet-grade REEs (Nd, Pr, Dy, Tb) — RED status
+Supply Risk Rating: CRITICAL (9.3/10)
+Primary Import Sources: China (82%), Australia (9%), India-IREL (4%), Brazil (2%), others (3%)
+Threat: China's demonstrated REE supply weaponization capability; HREE extreme concentration risk
+Key Gap: Zero domestic REE separation capacity at scale; IREL processing facility outdated
+Strategic Imperative: IREL Vizag separation plant (3,000 MT TREO/year); Lynas India dedicated 
+  processing stream; Arafura off-take; HREE strategic buffer emergency build-up
+
+SECTION 3: SECURITY IMPLICATIONS FOR EV TRANSITION
+
+India's EV transition is contingent on securing critical mineral supply chains that are currently 
+dominated by geopolitical adversaries or at-risk partners. Key national security implications:
+
+3.1 Defence Dependency Risk
+  NdFeB magnets (requiring Nd, Pr, Dy, Tb) are essential for: 
+  - BrahMos cruise missile guidance system motors
+  - Akash SAM system radar servomotors  
+  - Dhruv ALH helicopter motors
+  - Arjun MBT electric turret drive system
+  - INS Vikrant catapult system components (EMALS consideration)
+  
+  Current MoD REE stockpile: 14 months coverage (DRDO Strategic Reserve — classified location)
+  MoD assessment: REE supply disruption would halt advanced weapons production within 6 months.
+
+3.2 Energy Security Nexus
+  India's 500 GW renewable energy target by 2030 requires approximately:
+  - 180,000 MT NdPr (wind turbine permanent magnet generators)
+  - 45,000 MT Dy (high-temperature magnet enhancer)
+  - 1.2 million MT lithium carbonate (grid storage batteries)
+  
+  Without securing these minerals, India's energy security transition is fundamentally at risk.
+
+3.3 Economic Security
+  Downstream value addition in EV manufacturing (target: India as global EV hub by 2030) requires 
+  reliable mineral inputs. Supply disruption could impact:
+  - PLI-ACC investments of INR 18,100 Crore (already committed)
+  - EV manufacturing sector projected employment: 5 million direct jobs by FY2030
+  - Automobile export potential: USD 30 billion/year EV exports by FY2032
+
+SECTION 4: COMPOSITE STRATEGIC RISK RATING
+
+Mineral    | Supply Risk | Reserve Cover | Import Dependency | Composite Rating
+-----------|-------------|---------------|-------------------|------------------
+Lithium    | CRITICAL    | 8 months      | 100%              | RED — CRITICAL
+Cobalt     | CRITICAL    | 6.2 months    | 93%               | RED — CRITICAL
+Nickel     | HIGH        | 5.8 months    | 98%               | RED — HIGH
+Manganese  | LOW-MEDIUM  | 18 months     | 22%               | GREEN — MANAGED
+Graphite   | VERY HIGH   | 4 months      | 85–100%           | RED — CRITICAL
+REEs       | CRITICAL    | 3.5 months    | 82%               | RED — CRITICAL
+
+Overall India Critical Mineral Security Index (ICMSI) Score: 4.1/10 (VULNERABLE)
+Target ICMSI Score by FY2027-28: 6.5/10 (ADEQUATE)
+
+SECTION 5: TOP-LEVEL RECOMMENDATIONS TO CABINET COMMITTEE ON SECURITY
+
+5.1 IMMEDIATE (Cabinet approval required within 30 days):
+  (a) Authorize KABIL emergency procurement programme — INR 8,000 Crore (additional to budget)
+      for lithium (15,000 MT LCE), cobalt (3,000 MT), REE-NdPr (2,000 MT), graphite (5,000 MT)
+  (b) Classify graphite, REEs, and lithium as Hyper-Critical Minerals requiring 24-month reserve
+  (c) Authorize KABIL equity acquisition in Arafura Rare Earths Australia (15% stake, est. AUD 280M)
+
+5.2 SHORT-TERM (3–6 months):
+  (a) Conclude G2G mineral agreements with Australia (upgrade), Chile, Tanzania, Zambia, and 
+      Mozambique (target 5 new MoUs by September 2025)
+  (b) Fast-track IREL Vizag separation plant — accelerate environmental clearance process
+  (c) Launch NCMM Strategic Mineral Exchange (NSMEX) — internal government trading platform
+
+5.3 MEDIUM-TERM (6–18 months):
+  (a) Commission domestic lithium refinery feasibility (INR 50 Crore study)
+  (b) Establish mineral processing SEZ at Kamarajar Port (Ennore) — battery materials focus
+  (c) Create INR 25,000 Crore National Critical Mineral Fund (NCMF) through sovereign bond issuance
+
+SECTION 6: DOCUMENT CONTROL
+
+Prepared by     : Shri Vikram Singh Rawat, Director, NCMM Programme Management Unit
+Contributed by  : GSI (DG Dr. P.K. Mishra), IB Minerals Desk, KABIL (CMD Shri R. Gupta), 
+                  NMDC (CMD), Ministry of External Affairs (JS Americas & Pacific)
+Reviewed by     : Shri Bharat Bhushan Shukla, Joint Secretary (Critical Minerals), MoM
+Approved by     : Smt. Alka Bhatt, Secretary, Ministry of Mines
+
+Distribution    : Prime Minister's Office (PMO), Cabinet Secretary, National Security Adviser (NSA),
+                  Secretary (Mines), Secretary (MoF-Expenditure), Secretary (DPIIT), 
+                  Secretary (MoPNG), CCS Secretariat
+
+═══════════════════════════════════════════════════════════════
+DOCUMENT ENDS — NCMM/HQ/STRAT/MIN/2025/ASS-001
+NEXT ANNUAL REVIEW: MARCH 2026
+═══════════════════════════════════════════════════════════════
+
+TOP SECRET — EYES ONLY — SECRETARY LEVEL AND ABOVE
+UNAUTHORIZED DISCLOSURE IS AN OFFENCE UNDER SECTION 3 OF THE OFFICIAL SECRETS ACT, 1923

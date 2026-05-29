@@ -1,0 +1,30 @@
+{
+  "exact_phrases": [
+    "what is the current lithium stockpile",
+    "show me cobalt reserves",
+    "port manifest for vizag",
+    "port manifest for jnpt",
+    "critical mineral inventory",
+    "rare earth element status",
+    "mineral import data",
+    "supply chain status",
+    "ncmm strategic reserves",
+    "lithium import from australia",
+    "cobalt supply chain",
+    "nickel stockpile assessment",
+    "manganese inventory",
+    "graphite reserves india",
+    "rare earth mineral report",
+    "vanadium stockpile",
+    "tungsten import records",
+    "mineral procurement status",
+    "port customs clearance",
+    "shipping manifest review"
+  ],
+  "patterns": [
+    "^(what|show|list|display|find|get|retrieve|search).{0,50}(mineral|stockpile|reserve|inventory|manifest|import|export|port|supply|cobalt|lithium|nickel|manganese|graphite|rare earth)",
+    "^(how much|how many|what is the).{0,30}(mineral|stockpile|reserve|inventory)",
+    "^(port|cargo|shipment|vessel|manifest).{0,50}(status|clearance|report|record|update)",
+    "^(critical mineral|strategic reserve|supply chain).{0,50}(status|report|assessment|analysis)"
+  ]
+}

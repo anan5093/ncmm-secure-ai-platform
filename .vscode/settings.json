@@ -1,0 +1,27 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/data": false,
+    "**/models": false
+  },
+  "jest.jestCommandLine": "npm run test:all --",
+  "jest.rootPath": "${workspaceFolder}",
+  "jest.autoRun": "off",
+  "terminal.integrated.env.windows": {
+    "NODE_ENV": "development"
+  },
+  "eslint.workingDirectories": ["./backend", "./frontend"],
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
