@@ -1,185 +1,176 @@
 # 🔐 NCMM Secure Intelligence Platform
 
-> National Critical Mineral Mission · Local Developer Edition v2.0.0
-> 
-> **Hardware**: 8GB RAM / ~4GB available  
-> **Classification Levels**: RESTRICTED (1) → COSMIC TOP SECRET (5)
+> National Critical Mineral Mission (NCMM) secure RAG platform for classified intelligence workflows.
+
+![Node.js](https://img.shields.io/badge/Node.js-20%2B-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Required-47A248?logo=mongodb&logoColor=white)
+![OPA](https://img.shields.io/badge/Open%20Policy%20Agent-Enabled-7B61FF)
+![Local%20Dev](https://img.shields.io/badge/Mode-Local%20Developer%20Edition-blue)
+
+**Hardware target:** 8GB RAM (local-dev profile)  
+**Classification levels:** RESTRICTED (CL1) → COSMIC TOP SECRET (CL5)
 
 ---
 
-## 📸 System Screenshots
+## Table of Contents
+
+- [What this project does](#what-this-project-does)
+- [Why this project is useful](#why-this-project-is-useful)
+- [System screenshots](#system-screenshots)
+- [Architecture overview](#architecture-overview)
+- [Getting started](#getting-started)
+- [Usage examples](#usage-examples)
+- [Running tests](#running-tests)
+- [Developer utilities](#developer-utilities)
+- [Security invariants](#security-invariants)
+- [Troubleshooting](#troubleshooting)
+- [Project structure](#project-structure)
+- [Documentation](#documentation)
+- [Where to get help](#where-to-get-help)
+- [Maintainers and contributors](#maintainers-and-contributors)
+
+---
+
+## What this project does
+
+The NCMM Secure Intelligence Platform ingests classified mineral intelligence documents and provides secure, role-aware query responses using a Retrieval-Augmented Generation (RAG) pipeline.
+
+It combines:
+- **ABAC policy enforcement** (clearance, department, port isolation)
+- **Hybrid retrieval** (FAISS + BM25 + RRF + Cross-Encoder)
+- **Prompt-injection defense** (3-layer firewall)
+- **Auditable secure access** through JWT-authenticated APIs and admin telemetry
+
+---
+
+## Why this project is useful
+
+### Key features
+
+- **Defense-in-depth security model** across auth, policy, retrieval, and prompt layers
+- **Policy-driven access control** with Open Policy Agent (OPA)
+- **High-relevance retrieval** using semantic + lexical ranking fusion
+- **Operational visibility** with health, metrics, and admin APIs
+- **Developer-friendly local setup** for constrained hardware
+
+### Benefits for developers
+
+- Ready-to-run local environment for secure AI experimentation
+- Clear separation between backend, frontend, policies, scripts, and tests
+- Seeded data and ABAC users for fast validation of role-based behavior
+
+---
+
+## System screenshots
 
 ### Secure Login & Mandate Vision
 ![Login Page](Docs/screenshots/login_page.png)
 
-### Admin Dashboard - Telemetry & Metrics
+### Admin Dashboard — Telemetry & Metrics
 ![Admin Metrics](Docs/screenshots/admin_dashboard_metrics.png)
 
-### Admin Dashboard - System Health
+### Admin Dashboard — System Health
 ![Admin Health](Docs/screenshots/admin_dashboard_health.png)
 
-### Admin Dashboard - Security Logs
+### Admin Dashboard — Security Logs
 ![Admin Logs](Docs/screenshots/admin_dashboard_logs.png)
 
-### Admin Dashboard - Secure Query Testing
+### Admin Dashboard — Secure Query Testing
 ![Admin Query](Docs/screenshots/admin_dashboard_query.png)
 
 ---
 
-## 📚 Core Documentation
+## Architecture overview
 
-This project is built to B.Tech Capstone and enterprise-grade standards. For comprehensive details, please review the dedicated documentation files in the `Docs/` directory:
-
-- 📄 **[Requirements Document](Docs/Requirements.md)**: Details functional requirements, ABAC access controls, and RAG firewall specifications.
-- 📐 **[System Design](Docs/Design.md)**: Explains the multi-tiered architecture and includes Mermaid.js sequence diagrams for the ingestion pipeline.
-- 📋 **[Agile Task Backlog](Docs/Task.md)**: Tracks completed Epics across Infrastructure, Security, Ingestion, and UI.
-- 🐛 **[Debug Session Log](Docs/DEBUG_SESSION.md)**: Documents all bugs, root cause analyses, and architectural solutions implemented during development.
-- 📊 **[Test Results (Comprehensive)](Docs/TEST_RESULTS_COMPREHENSIVE.md)** & **[Query Test Results](Docs/QUERY_TEST_RESULTS.md)**: Logs of adversarial testing and retrieval performance.
-- ⚙️ **[No-Docker Setup Guide](Docs/SETUP_NO_DOCKER.md)**: Instructions for running the project on machines without Docker Desktop.
-
----
-
-## 🏗️ Architecture Overview
-
-```
+```text
 User Query (React) → JWT Auth → OPA Pre-Filter → FAISS (k=50) + BM25 (k=50)
-    → RRF Fusion (top-20) → Cross-Encoder (top-5) → Firewall (L1→L2→L3)
+    → RRF Fusion (top-20) → Cross-Encoder (top-K) → Firewall (L1→L2→L3)
     → Mock LLM / Ollama → Response with Citations
 ```
 
-**Five Security Layers:**
-1. **JWT Middleware** — Role-based bearer token validation
-2. **OPA ABAC** — Policy engine enforcing clearance + department + port isolation
-3. **Firewall L1** — NFKC Unicode normalizer + zero-width / bidi char stripper
-4. **Firewall L2** — Heuristic + ONNX intent classifier (injection / jailbreak detection)
-5. **Firewall L3** — XML structured prompt vault (system instruction isolation)
+**Five security layers:**
+1. **JWT Middleware** — role-based bearer token validation
+2. **OPA ABAC** — clearance + department + port policy enforcement
+3. **Firewall L1** — Unicode normalization + control character stripping
+4. **Firewall L2** — injection/jailbreak classifier + heuristics
+5. **Firewall L3** — XML structured prompt vault with citation controls
 
 ---
 
-## 📋 Prerequisites
+## Getting started
+
+### Prerequisites
 
 | Requirement | Version | Check |
 |---|---|---|
-| Node.js | ≥ 20.0.0 | `node --version` |
-| npm | ≥ 9.0.0 | `npm --version` |
-| Docker Desktop | Latest | `docker --version` |
-| VS Code | Latest | — |
+| Node.js | >= 20.0.0 | `node --version` |
+| npm | >= 9.0.0 | `npm --version` |
+| Docker + Docker Compose | Latest | `docker --version` |
 
----
+### 1) Clone and install
 
-## 🚀 Setup — Step by Step (VS Code Terminal)
+```bash
+git clone https://github.com/anan5093/ncmm-secure-ai-platform.git
+cd ncmm-secure-ai-platform
 
-### Step 1: Install Dependencies
-
-Open VS Code, then open the **Integrated Terminal** (`Ctrl+`` `) and run:
-
-```powershell
-# Backend dependencies
-cd "e:\Secure rag\ncmm-intel-platform\backend"
 npm install
-
-# Frontend dependencies  
-cd "e:\Secure rag\ncmm-intel-platform\frontend"
-npm install
-
-# Root-level test runner
-cd "e:\Secure rag\ncmm-intel-platform"
-npm install
+cd backend && npm install && cd ..
+cd frontend && npm install --legacy-peer-deps && cd ..
 ```
 
-**Note on heavy packages:**
-- `faiss-node` — downloads ~150MB C++ binary (FAISS index)
-- `@xenova/transformers` — downloads `all-MiniLM-L6-v2` (~90MB) on first run
-- These downloads happen once and are cached
+### 2) Configure environment
 
-### Step 2: Start Docker Services
+```bash
+cp .env.example .env
+```
 
-```powershell
-cd "e:\Secure rag\ncmm-intel-platform"
+Update `.env` as needed (JWT secret, MongoDB URI, OLLAMA URL).
+
+### 3) Start infrastructure
+
+```bash
 docker-compose up -d
 ```
 
-Verifies: MongoDB (port 27017) + OPA (port 8181) are running.
+### 4) Initialize indexes + seed data
 
-```powershell
-# Health check OPA:
-Invoke-RestMethod http://127.0.0.1:8181/v1/health
-# Expected: { "healthy": true }
-```
-
-### Step 3: Initialise Database
-
-```powershell
-cd "e:\Secure rag\ncmm-intel-platform"
-
-# Create MongoDB indexes
+```bash
 node scripts/setup/init_db_indexes.js
-
-# Seed 6 ABAC test users
 node scripts/seed/seed_abac_policies.js
-
-# Ingest all 20 NCMM seed documents
 node scripts/seed/run_seed_ingestion.js
 ```
 
-**Expected output:** `20 documents, ~400 chunks, ~200 FAISS vectors (384-dim)`
+### 5) Run services
 
-### Step 4: Verify Setup
+In separate terminals:
 
-```powershell
-node scripts/dev/check_db_health.js      # MongoDB health
-node scripts/dev/verify_faiss_index.js   # FAISS index
+```bash
+cd backend && node src/server.js
 ```
 
----
-
-## 🖥️ Running the Platform
-
-### Option A: VS Code Launch Configs (Recommended)
-
-Press **F5** or go to **Run → Start Debugging**.
-
-Available launch configs (`.vscode/launch.json`):
-- **Express API Server** — Starts backend on port 3000
-- **Mock LLM Server** — Starts Ollama-compatible mock on port 11434  
-- **React Dev Server** — Starts frontend on port 5173
-- **Full Dev Stack (API + Mock LLM)** — Starts API + Mock LLM together (compound)
-
-### Option B: Terminal Commands
-
-**Terminal 1 — Express API:**
-```powershell
-cd "e:\Secure rag\ncmm-intel-platform\backend"
-node src/server.js
+```bash
+cd backend && npm run mock-llm
 ```
 
-**Terminal 2 — Mock LLM:**
-```powershell
-cd "e:\Secure rag\ncmm-intel-platform\backend"
-npm run mock-llm
+```bash
+cd frontend && npm run dev
 ```
 
-**Terminal 3 — React Frontend:**
-```powershell
-cd "e:\Secure rag\ncmm-intel-platform\frontend"
-npm run dev
-```
-
-### Access Points
+### 6) Open the platform
 
 | Service | URL |
 |---|---|
-| **React UI** | http://localhost:5173 |
-| **Express API** | http://localhost:3000 |
-| **API Health** | http://localhost:3000/health |
-| **Prometheus Metrics** | http://localhost:3000/metrics |
-| **Mock LLM** | http://localhost:11434 |
-| **OPA** | http://localhost:8181/v1/health |
-| **MongoDB** | mongodb://localhost:27017 |
+| React UI | http://localhost:5173 |
+| Express API | http://localhost:3000 |
+| API health | http://localhost:3000/health |
+| Prometheus metrics | http://localhost:3000/metrics |
+| OPA health | http://localhost:8181/v1/health |
 
 ---
 
-## 🔑 Test Credentials
+## Usage examples
+
+### Test credentials
 
 | Username | Password | Role | Clearance | Port |
 |---|---|---|---|---|
@@ -189,122 +180,131 @@ npm run dev
 | `s.iyer` | `mission-director-pass-2025` | Mission Director | CL5 | — |
 | `admin` | `sysadmin-pass-2025` | Sysadmin | CL1 | — |
 
----
+### Login and query API
 
-## 🧪 Running Tests
-
-### Unit Tests (no services needed)
-```powershell
-cd "e:\Secure rag\ncmm-intel-platform"
-npx jest --testPathPattern="tests/unit" --config=tests/jest.config.js
+```bash
+curl -s -X POST http://localhost:3000/api/v1/auth/login \
+  -H "Content-Type: application/json" \
+  -d '{"username":"r.sharma","password":"vizag-inspector-pass-2025"}'
 ```
 
-### Adversarial Tests (no services needed)
-```powershell
+```bash
+curl -s -X POST http://localhost:3000/api/v1/query \
+  -H "Authorization: AUTH_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{"query":"What is the current lithium carbonate stockpile level?"}'
+```
+
+---
+
+## Running tests
+
+Use the repository-level Jest config:
+
+```bash
+npx jest --config tests/jest.config.js
+```
+
+Useful subsets:
+
+```bash
+npx jest --testPathPattern="tests/unit" --config=tests/jest.config.js
 npx jest --testPathPattern="tests/adversarial" --config=tests/jest.config.js
 ```
 
-### All Tests (requires Docker services running)
-```powershell
-npx jest --config=tests/jest.config.js
-```
+OPA policy tests:
 
-### OPA Policy Tests
-```powershell
-# Requires OPA binary or Docker
-docker run --rm -v "e:\Secure rag\ncmm-intel-platform\policies:/policies" openpolicyagent/opa test /policies -v
+```bash
+docker run --rm -v "$PWD/policies:/policies" openpolicyagent/opa test /policies -v
 ```
 
 ---
 
-## 🔧 Dev Tools
+## Developer utilities
 
-### Generate JWT for any role:
-```powershell
-cd "e:\Secure rag\ncmm-intel-platform"
+Generate test JWT tokens:
+
+```bash
 node scripts/dev/generate_test_jwt.js --role ROLE_MISSION_DIRECTOR
 node scripts/dev/generate_test_jwt.js --role ROLE_PORT_INSPECTOR --port JNPT
 ```
 
-### Test the API directly with curl:
-```powershell
-# Get a JWT (from the generate_test_jwt.js output) then:
-$TOKEN="eyJ..."  # paste your token here
+Quick health checks:
 
-# Test query
-Invoke-RestMethod -Method POST -Uri http://localhost:3000/api/v1/query `
-  -Headers @{ Authorization = "Bearer $TOKEN"; "Content-Type" = "application/json" } `
-  -Body '{"query":"What is the current lithium carbonate stockpile level?"}'
-```
-
-### Clear all test data:
-```powershell
-$env:NODE_ENV="development"
-node scripts/seed/clear_test_data.js
+```bash
+node scripts/dev/check_db_health.js
+node scripts/dev/verify_faiss_index.js
 ```
 
 ---
 
-## 📁 Project Structure
-
-```
-ncmm-intel-platform/
-├── backend/
-│   └── src/
-│       ├── server.js              ← Express entry point
-│       ├── mock-llm/              ← Mock Ollama server
-│       ├── ingestion/             ← Watcher, extractor, chunker, embedder, pipeline
-│       ├── search/                ← FAISS, BM25, RRF, CrossEncoder
-│       ├── firewall/              ← L1 normalizer, L2 classifier, L3 XML vault
-│       ├── middleware/            ← auth.js (JWT), abac.js (OPA)
-│       ├── routes/                ← auth.js, query.js, records.js
-│       └── telemetry/             ← Prometheus metrics
-├── frontend/
-│   └── src/
-│       ├── App.tsx
-│       ├── pages/                 ← LoginPage, ChatPage, ForbiddenPage
-│       ├── components/            ← RouteGuard, CitationOverlay
-│       └── hooks/                 ← useAuth
-├── policies/                      ← OPA Rego policies + tests
-├── scripts/
-│   ├── setup/                     ← init_db_indexes.js
-│   ├── seed/                      ← 20 documents, seed scripts
-│   └── dev/                       ← JWT generator, health checks
-├── tests/
-│   ├── unit/                      ← RRF, chunker, normalizer, JWT, XML vault, citations
-│   ├── adversarial/               ← Injection, homoglyph, bidi, jailbreak, ABAC bypass, data leak
-│   ├── security/                  ← JWT rejection tests
-│   └── fixtures/                  ← JWT fixtures, document fixtures
-├── docker-compose.yml             ← MongoDB + OPA
-├── docker-compose.monitoring.yml  ← Prometheus + Grafana (optional)
-├── .env                           ← Dev environment variables
-└── .vscode/                       ← Launch configs, tasks, settings
-```
-
----
-
-## 🛡️ Security Invariants
+## Security invariants
 
 | Invariant | Enforcement |
 |---|---|
-| No CL5 data to CL<5 users | OPA pre-filter + cross-encoder secondary ABAC |
-| VIZAG inspector sees 0 JNPT citations | OPA port isolation policy |
-| Sysadmin denied all documents | OPA explicit deny rule |
-| Prompt injection blocked | Firewall L1 (unicode) + L2 (classifier) + L3 (XML vault) |
-| JWT in memory only (no localStorage) | React state hook (useAuth.ts) |
-| Metrics endpoint localhost only | Express IP check |
-| Audit log for every OPA decision | MongoDB audit_logs (TTL: 90 days) |
+| No CL5 data to CL<5 users | OPA pre-filter + post-retrieval controls |
+| Port isolation between VIZAG/JNPT inspectors | OPA port-based ABAC rules |
+| Sysadmin blocked from intelligence corpus | Explicit deny logic in policies |
+| Prompt injection/jailbreak filtering | Firewall L1 + L2 + L3 chain |
+| JWT kept out of localStorage | React auth state in memory |
+| `/metrics` endpoint restricted | Localhost-only check in backend |
 
 ---
 
-## 🚨 Troubleshooting
+## Troubleshooting
 
-| Problem | Fix |
+| Problem | Action |
 |---|---|
-| `MongoDB connection failed` | Run `docker-compose up -d`, wait 10s |
-| `OPA timeout` | Check `docker ps` — OPA container must be running |
-| `LLM unavailable` | Start mock-llm: `npm run mock-llm` in backend dir |
-| `FAISS index not found` | Run `node scripts/seed/run_seed_ingestion.js` |
-| `faiss-node install fails` | Requires Visual C++ Build Tools. Install from: https://visualstudio.microsoft.com/visual-cpp-build-tools/ |
-| `@xenova/transformers slow first run` | Normal — downloading ~90MB model. Wait 2-3 min. |
-| `BM25 empty results` | Restart server after ingestion — BM25 rebuilds on startup |
+| MongoDB connection failed | Start dependencies with `docker-compose up -d` |
+| OPA timeout | Verify OPA is healthy at `http://localhost:8181/v1/health` |
+| LLM unavailable | Start mock server using `cd backend && npm run mock-llm` |
+| FAISS index missing | Re-run `node scripts/seed/run_seed_ingestion.js` |
+
+---
+
+## Project structure
+
+```text
+ncmm-secure-ai-platform/
+├── backend/                 # Express API, ingestion, retrieval, firewall, telemetry
+├── frontend/                # React + Vite client (login/chat/admin)
+├── policies/                # OPA Rego policies and tests
+├── scripts/                 # setup, seeding, and dev utilities
+├── tests/                   # unit, adversarial, security suites
+├── Docs/                    # design, requirements, setup, and test reports
+├── docker-compose.yml       # MongoDB + OPA stack
+└── .env.example             # local environment template
+```
+
+---
+
+## Documentation
+
+- [Requirements](Docs/Requirements.md)
+- [System Design](Docs/Design.md)
+- [Task Backlog](Docs/Task.md)
+- [Debug Session Log](Docs/DEBUG_SESSION.md)
+- [Comprehensive Test Results](Docs/TEST_RESULTS_COMPREHENSIVE.md)
+- [Query Test Results](Docs/QUERY_TEST_RESULTS.md)
+- [No-Docker Setup Guide](Docs/SETUP_NO_DOCKER.md)
+
+---
+
+## Where to get help
+
+- Open an issue in the repository for bugs, feature requests, or setup problems
+- Review `Docs/SETUP_NO_DOCKER.md` if Docker is not viable on your machine
+- Check `Docs/DEBUG_SESSION.md` and test result documents for known implementation history
+
+---
+
+## Maintainers and contributors
+
+This project is maintained by the repository owner and contributors in `anan5093/ncmm-secure-ai-platform`.
+
+Contributions are welcome via pull requests. Before submitting:
+1. Keep changes scoped and security-aware
+2. Run relevant tests locally
+3. Update affected documentation when behavior changes
+
+If your team uses additional contribution policies, add a `CONTRIBUTING.md` file and link it here.
