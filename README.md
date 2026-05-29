@@ -26,6 +26,7 @@
 - [Troubleshooting](#troubleshooting)
 - [Project structure](#project-structure)
 - [Documentation](#documentation)
+- [License](#license)
 - [Where to get help](#where-to-get-help)
 - [Maintainers and contributors](#maintainers-and-contributors)
 
@@ -287,6 +288,12 @@ ncmm-secure-ai-platform/
 - [Comprehensive Test Results](Docs/TEST_RESULTS_COMPREHENSIVE.md)
 - [Query Test Results](Docs/QUERY_TEST_RESULTS.md)
 - [No-Docker Setup Guide](Docs/SETUP_NO_DOCKER.md)
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [MITLicense](MITLicense) file for details.
 
 ---
 
